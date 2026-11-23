@@ -4,66 +4,70 @@
   "target": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123",
   "source_fingerprint": {
     "algorithm": "sha256",
-    "digest": "f8622cfc5c593a79f67f55c0bad73076ccd02f835148992f3b5805942513fc59",
-    "file_count": 13,
+    "digest": "8b57b1635c918386f39780c1a9b0a918da96dc6c76f7a2b93be4212bd4fab72a",
+    "file_count": 14,
     "files": [
       {
         "file": "01_cover.svg",
-        "sha256": "b1e501890c36cc131c7d325417cd32182bff489d7ae0d129b248fed64670f4a6"
+        "sha256": "2744ad67bf2e817d549507b630927915560c79a38f9b87df6019ce785d7f0a8b"
       },
       {
         "file": "02_mission_overview.svg",
-        "sha256": "62f49f28cac80140a81239546c32904ed27153c93e9bdd4be9152d14d1f26af1"
+        "sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
       },
       {
         "file": "03_global_puzzle.svg",
-        "sha256": "843870cb61cc88037dc2c8f9002d62fbc41ccfa371fe80292fecd3b59974ee51"
+        "sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
       },
       {
         "file": "04_population_growth_80b.svg",
-        "sha256": "67e2a33acf2e18cb808e40c1355091c35d43f7503a24cedad2f58af4bfd5962d"
+        "sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
       },
       {
-        "file": "05_natural_growth_rate.svg",
-        "sha256": "e80ca05b839fa0615890b89bcbd5ba4d87ebb108543b540207d2d78fb17d62a9"
+        "file": "05_task1_blindbox.svg",
+        "sha256": "b240d153e7f63d7a1befa0439ed3495efbb0e99f1697f1b0f0e610a77f857d9d"
       },
       {
-        "file": "06_task1_blindbox.svg",
-        "sha256": "a8ea3edab2c14c193f0c22cff70d7658def41a5800189683f4442ffac5fa1b37"
+        "file": "06_task1_three_maps.svg",
+        "sha256": "715fdadfb8f69e37d0a72b5ed5e2d5324cf73e92f7152ed48553497ffff1ebde"
       },
       {
-        "file": "07_task1_three_maps.svg",
-        "sha256": "c9e2e50c9e0522fe58e66f44295423c94f1cbdd60f95c82bd6fc4bcefd4d4eb3"
+        "file": "07_natural_growth_rate.svg",
+        "sha256": "8285ca7fba7f62fdf43ac913ae3b8ff98ef11961306a53036d39d073bf00b866"
       },
       {
         "file": "08_task2_ab_cards.svg",
-        "sha256": "ee6c4b8e449e115f9a45ecf1fa4e6fa44f99442b401b9906273d1dd631f9f9b5"
+        "sha256": "c88db196d3ec84182f453c15311dca405c8f7f197c842e2e4e9ea46b58f9f95e"
       },
       {
         "file": "09_task2_conclusion.svg",
-        "sha256": "02ffd7474128b0de27e57a2a0720b33f74b2f3f682f15fa6ebfe0bf23f490305"
+        "sha256": "70164f43e0c8c0b39c448641aed30c2c914e52e2224ee617c2ee5df8bd044480"
       },
       {
         "file": "10_task3_races_adapt.svg",
-        "sha256": "dff9fec39a29aa93cf72d94cbbd1d15c89f3c0a6d56c2d6ebc194b4f64e9ca46"
+        "sha256": "1637897227a3ffdd9a19d243720d339dc175483a0d4bd0f84d3fd14eda6557b3"
       },
       {
         "file": "11_task3_diversity.svg",
-        "sha256": "b59bfdbee08d7ced1929ec2a2bc78e8d98054e09207ae720d0293981af55765d"
+        "sha256": "d1474a7b229ee6cdc8b5b677a6ca6cc32d2e1eb03eab518e6b376356aed7db31"
       },
       {
         "file": "12_closing_report.svg",
-        "sha256": "c39fd50e6c10e90107e5e7f16cf5d3b613cd97a158e2d5f4834272070fe2e884"
+        "sha256": "4a381218b3efbcac9dec1431faab78cfbe6c22f1bbf0570f898b5c194729782c"
       },
       {
         "file": "13_blackboard_summary.svg",
-        "sha256": "8d9b648d8205ac4ba763a816e66ab7f913f6a93da11759ac12aeff484425c439"
+        "sha256": "ee90022ff0456b1d5c524eb0c6d0c8df8492db9bc4d6b222a6e424692007ebe7"
+      },
+      {
+        "file": "14_deep_summary.svg",
+        "sha256": "19e9885d82b67d8778f7f788b02c169bfbef9fdc9fcb9944fa847e81cfb011da"
       }
     ]
   },
   "summary": {
-    "total": 13,
-    "passed": 13,
+    "total": 14,
+    "passed": 14,
     "warnings": 0,
     "errors": 0
   },
@@ -96,28 +100,28 @@
   },
   "carrier_receipt": {
     "scope": "informational-not-a-quota",
-    "pages": 13,
+    "pages": 14,
     "totals": {
-      "text_elements": 262,
+      "text_elements": 284,
       "image_placements": 0,
-      "icons": 27,
-      "svg_geometry_elements": 146,
-      "preset_shapes": 19,
-      "page_frame_elements": 27,
+      "icons": 28,
+      "svg_geometry_elements": 163,
+      "preset_shapes": 21,
+      "page_frame_elements": 29,
       "marker_uses": 0,
-      "inline_emphasis_runs": 42,
+      "inline_emphasis_runs": 43,
       "gradient_uses": 0,
       "filter_uses": 0,
       "text_effects": 0
     },
     "pages_with": {
       "images": 0,
-      "icons": 11,
-      "presets": 5,
+      "icons": 12,
+      "presets": 6,
       "charts": 0,
       "tables": 0,
       "formulas": 0,
-      "inline_emphasis_runs": 7,
+      "inline_emphasis_runs": 8,
       "gradient_uses": 0,
       "filter_uses": 0,
       "text_effects": 0
@@ -126,17 +130,18 @@
     "geometry_elements": {
       "circle": 15,
       "ellipse": 0,
-      "line": 7,
+      "line": 8,
       "path": 1,
       "polygon": 0,
       "polyline": 0,
-      "rect": 123
+      "rect": 139
     },
     "preset_names": {
       "chevron": 4,
       "downArrow": 12,
       "homePlate": 1,
-      "mathPlus": 2
+      "mathPlus": 2,
+      "rightArrow": 2
     },
     "native_objects": {
       "chart": 0,
@@ -211,7 +216,7 @@
         "tspan_elements": 2
       },
       "passed": true,
-      "source_sha256": "b1e501890c36cc131c7d325417cd32182bff489d7ae0d129b248fed64670f4a6"
+      "source_sha256": "2744ad67bf2e817d549507b630927915560c79a38f9b87df6019ce785d7f0a8b"
     },
     {
       "file": "02_mission_overview.svg",
@@ -269,10 +274,10 @@
           "Microsoft YaHei, Arial"
         ],
         "text_elements": 25,
-        "tspan_elements": 16
+        "tspan_elements": 20
       },
       "passed": true,
-      "source_sha256": "62f49f28cac80140a81239546c32904ed27153c93e9bdd4be9152d14d1f26af1"
+      "source_sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
     },
     {
       "file": "03_global_puzzle.svg",
@@ -330,7 +335,7 @@
         "tspan_elements": 8
       },
       "passed": true,
-      "source_sha256": "843870cb61cc88037dc2c8f9002d62fbc41ccfa371fe80292fecd3b59974ee51"
+      "source_sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
     },
     {
       "file": "04_population_growth_80b.svg",
@@ -341,7 +346,7 @@
       "info": {
         "viewbox": "0 0 1280 720",
         "carrier_receipt": {
-          "text_elements": 34,
+          "text_elements": 33,
           "images": {
             "placements": 0,
             "files": [],
@@ -349,7 +354,7 @@
           },
           "icons": 2,
           "effects": {
-            "inline_emphasis_runs": 4,
+            "inline_emphasis_runs": 5,
             "gradient_uses": 0,
             "filter_uses": 0,
             "text_effects": 0
@@ -384,75 +389,15 @@
         "fonts": [
           "Microsoft YaHei, Arial"
         ],
-        "text_elements": 34,
-        "tspan_elements": 9
+        "text_elements": 33,
+        "tspan_elements": 13
       },
       "passed": true,
-      "source_sha256": "67e2a33acf2e18cb808e40c1355091c35d43f7503a24cedad2f58af4bfd5962d"
+      "source_sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
     },
     {
-      "file": "05_natural_growth_rate.svg",
-      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/05_natural_growth_rate.svg",
-      "exists": true,
-      "errors": [],
-      "warnings": [],
-      "info": {
-        "viewbox": "0 0 1280 720",
-        "carrier_receipt": {
-          "text_elements": 17,
-          "images": {
-            "placements": 0,
-            "files": [],
-            "max_frame_share": 0.0
-          },
-          "icons": 1,
-          "effects": {
-            "inline_emphasis_runs": 3,
-            "gradient_uses": 0,
-            "filter_uses": 0,
-            "text_effects": 0
-          },
-          "geometry": {
-            "svg_elements": {
-              "rect": 7,
-              "circle": 0,
-              "ellipse": 0,
-              "line": 0,
-              "polyline": 0,
-              "polygon": 0,
-              "path": 0
-            },
-            "preset_shapes": 3,
-            "preset_names": {
-              "downArrow": 3
-            },
-            "page_frame_elements": 2,
-            "marker_uses": {
-              "start": 0,
-              "mid": 0,
-              "end": 0
-            }
-          },
-          "native_objects": {
-            "chart": 0,
-            "table": 0,
-            "formula_block": 0,
-            "formula_inline": 0,
-            "other": 0
-          }
-        },
-        "fonts": [
-          "Microsoft YaHei, Arial"
-        ],
-        "text_elements": 17,
-        "tspan_elements": 7
-      },
-      "passed": true,
-      "source_sha256": "e80ca05b839fa0615890b89bcbd5ba4d87ebb108543b540207d2d78fb17d62a9"
-    },
-    {
-      "file": "06_task1_blindbox.svg",
-      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/06_task1_blindbox.svg",
+      "file": "05_task1_blindbox.svg",
+      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/05_task1_blindbox.svg",
       "exists": true,
       "errors": [],
       "warnings": [],
@@ -506,36 +451,36 @@
         "tspan_elements": 2
       },
       "passed": true,
-      "source_sha256": "a8ea3edab2c14c193f0c22cff70d7658def41a5800189683f4442ffac5fa1b37"
+      "source_sha256": "b240d153e7f63d7a1befa0439ed3495efbb0e99f1697f1b0f0e610a77f857d9d"
     },
     {
-      "file": "07_task1_three_maps.svg",
-      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/07_task1_three_maps.svg",
+      "file": "06_task1_three_maps.svg",
+      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/06_task1_three_maps.svg",
       "exists": true,
       "errors": [],
       "warnings": [],
       "info": {
         "viewbox": "0 0 1280 720",
         "carrier_receipt": {
-          "text_elements": 17,
+          "text_elements": 23,
           "images": {
             "placements": 0,
             "files": [],
             "max_frame_share": 0.0
           },
-          "icons": 6,
+          "icons": 4,
           "effects": {
-            "inline_emphasis_runs": 7,
+            "inline_emphasis_runs": 2,
             "gradient_uses": 0,
             "filter_uses": 0,
             "text_effects": 0
           },
           "geometry": {
             "svg_elements": {
-              "rect": 8,
+              "rect": 13,
               "circle": 0,
               "ellipse": 0,
-              "line": 0,
+              "line": 1,
               "polyline": 0,
               "polygon": 0,
               "path": 0
@@ -563,11 +508,71 @@
         "fonts": [
           "Microsoft YaHei, Arial"
         ],
-        "text_elements": 17,
-        "tspan_elements": 16
+        "text_elements": 23,
+        "tspan_elements": 6
       },
       "passed": true,
-      "source_sha256": "c9e2e50c9e0522fe58e66f44295423c94f1cbdd60f95c82bd6fc4bcefd4d4eb3"
+      "source_sha256": "715fdadfb8f69e37d0a72b5ed5e2d5324cf73e92f7152ed48553497ffff1ebde"
+    },
+    {
+      "file": "07_natural_growth_rate.svg",
+      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/07_natural_growth_rate.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 1,
+          "effects": {
+            "inline_emphasis_runs": 3,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 8,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 3,
+            "preset_names": {
+              "downArrow": 3
+            },
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "8285ca7fba7f62fdf43ac913ae3b8ff98ef11961306a53036d39d073bf00b866"
     },
     {
       "file": "08_task2_ab_cards.svg",
@@ -625,7 +630,7 @@
         "tspan_elements": 28
       },
       "passed": true,
-      "source_sha256": "ee6c4b8e449e115f9a45ecf1fa4e6fa44f99442b401b9906273d1dd631f9f9b5"
+      "source_sha256": "c88db196d3ec84182f453c15311dca405c8f7f197c842e2e4e9ea46b58f9f95e"
     },
     {
       "file": "09_task2_conclusion.svg",
@@ -685,7 +690,7 @@
         "tspan_elements": 13
       },
       "passed": true,
-      "source_sha256": "02ffd7474128b0de27e57a2a0720b33f74b2f3f682f15fa6ebfe0bf23f490305"
+      "source_sha256": "70164f43e0c8c0b39c448641aed30c2c914e52e2224ee617c2ee5df8bd044480"
     },
     {
       "file": "10_task3_races_adapt.svg",
@@ -743,7 +748,7 @@
         "tspan_elements": 25
       },
       "passed": true,
-      "source_sha256": "dff9fec39a29aa93cf72d94cbbd1d15c89f3c0a6d56c2d6ebc194b4f64e9ca46"
+      "source_sha256": "1637897227a3ffdd9a19d243720d339dc175483a0d4bd0f84d3fd14eda6557b3"
     },
     {
       "file": "11_task3_diversity.svg",
@@ -801,7 +806,7 @@
         "tspan_elements": 11
       },
       "passed": true,
-      "source_sha256": "b59bfdbee08d7ced1929ec2a2bc78e8d98054e09207ae720d0293981af55765d"
+      "source_sha256": "d1474a7b229ee6cdc8b5b677a6ca6cc32d2e1eb03eab518e6b376356aed7db31"
     },
     {
       "file": "12_closing_report.svg",
@@ -859,7 +864,7 @@
         "tspan_elements": 10
       },
       "passed": true,
-      "source_sha256": "c39fd50e6c10e90107e5e7f16cf5d3b613cd97a158e2d5f4834272070fe2e884"
+      "source_sha256": "4a381218b3efbcac9dec1431faab78cfbe6c22f1bbf0570f898b5c194729782c"
     },
     {
       "file": "13_blackboard_summary.svg",
@@ -919,7 +924,67 @@
         "tspan_elements": 9
       },
       "passed": true,
-      "source_sha256": "8d9b648d8205ac4ba763a816e66ab7f913f6a93da11759ac12aeff484425c439"
+      "source_sha256": "ee90022ff0456b1d5c524eb0c6d0c8df8492db9bc4d6b222a6e424692007ebe7"
+    },
+    {
+      "file": "14_deep_summary.svg",
+      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/14_deep_summary.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 16,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 5,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 10,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 2,
+            "preset_names": {
+              "rightArrow": 2
+            },
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 16,
+        "tspan_elements": 17
+      },
+      "passed": true,
+      "source_sha256": "19e9885d82b67d8778f7f788b02c169bfbef9fdc9fcb9944fa847e81cfb011da"
     }
   ]
 }

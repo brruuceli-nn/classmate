@@ -4,35 +4,35 @@
   "target": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123",
   "source_fingerprint": {
     "algorithm": "sha256",
-    "digest": "b0c1547577097df3229b9bc837f075f13f0fa682924b64f367ad73d004411800",
+    "digest": "f0cc7fba81d26a887041e291c26f4234d42fff079db9356e1b33ebba498ec2c6",
     "file_count": 5,
     "files": [
       {
         "file": "01_cover.svg",
-        "sha256": "b1e501890c36cc131c7d325417cd32182bff489d7ae0d129b248fed64670f4a6"
+        "sha256": "2744ad67bf2e817d549507b630927915560c79a38f9b87df6019ce785d7f0a8b"
       },
       {
         "file": "02_mission_overview.svg",
-        "sha256": "f358892ce19d946e3f9520533439374517079cf9c4cae064d8302e437b801428"
+        "sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
       },
       {
         "file": "03_global_puzzle.svg",
-        "sha256": "843870cb61cc88037dc2c8f9002d62fbc41ccfa371fe80292fecd3b59974ee51"
+        "sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
       },
       {
         "file": "04_population_growth_80b.svg",
-        "sha256": "67e2a33acf2e18cb808e40c1355091c35d43f7503a24cedad2f58af4bfd5962d"
+        "sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
       },
       {
-        "file": "05_natural_growth_rate.svg",
-        "sha256": "e80ca05b839fa0615890b89bcbd5ba4d87ebb108543b540207d2d78fb17d62a9"
+        "file": "05_task1_blindbox.svg",
+        "sha256": "b240d153e7f63d7a1befa0439ed3495efbb0e99f1697f1b0f0e610a77f857d9d"
       }
     ]
   },
   "summary": {
     "total": 5,
-    "passed": 4,
-    "warnings": 1,
+    "passed": 5,
+    "warnings": 0,
     "errors": 0
   },
   "issue_types": {},
@@ -42,13 +42,8 @@
       "issues": []
     },
     "introduced": {
-      "count": 1,
-      "issues": [
-        {
-          "file": "02_mission_overview.svg",
-          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (6 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): page-footer:fill None -> '#64748B'; page-footer:font-size None -> '14'; text[72]:fill '#64748B' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
-        }
-      ]
+      "count": 0,
+      "issues": []
     },
     "inherited": {
       "count": 0,
@@ -71,14 +66,14 @@
     "scope": "informational-not-a-quota",
     "pages": 5,
     "totals": {
-      "text_elements": 116,
+      "text_elements": 132,
       "image_placements": 0,
       "icons": 11,
-      "svg_geometry_elements": 61,
-      "preset_shapes": 8,
+      "svg_geometry_elements": 72,
+      "preset_shapes": 5,
       "page_frame_elements": 11,
       "marker_uses": 0,
-      "inline_emphasis_runs": 7,
+      "inline_emphasis_runs": 5,
       "gradient_uses": 0,
       "filter_uses": 0,
       "text_effects": 0
@@ -86,28 +81,27 @@
     "pages_with": {
       "images": 0,
       "icons": 5,
-      "presets": 2,
+      "presets": 1,
       "charts": 0,
       "tables": 0,
       "formulas": 0,
-      "inline_emphasis_runs": 2,
+      "inline_emphasis_runs": 1,
       "gradient_uses": 0,
       "filter_uses": 0,
       "text_effects": 0
     },
     "relationship_pages": null,
     "geometry_elements": {
-      "circle": 9,
+      "circle": 15,
       "ellipse": 0,
       "line": 7,
       "path": 1,
       "polygon": 0,
       "polyline": 0,
-      "rect": 44
+      "rect": 49
     },
     "preset_names": {
       "chevron": 4,
-      "downArrow": 3,
       "homePlate": 1
     },
     "native_objects": {
@@ -183,16 +177,14 @@
         "tspan_elements": 2
       },
       "passed": true,
-      "source_sha256": "b1e501890c36cc131c7d325417cd32182bff489d7ae0d129b248fed64670f4a6"
+      "source_sha256": "2744ad67bf2e817d549507b630927915560c79a38f9b87df6019ce785d7f0a8b"
     },
     {
       "file": "02_mission_overview.svg",
       "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/02_mission_overview.svg",
       "exists": true,
       "errors": [],
-      "warnings": [
-        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (6 change(s)); examples (group:attr None -> value hoists the shared value onto that group; child:attr value -> None drops the copy the child now inherits): page-footer:fill None -> '#64748B'; page-footer:font-size None -> '14'; text[72]:fill '#64748B' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
-      ],
+      "warnings": [],
       "info": {
         "viewbox": "0 0 1280 720",
         "carrier_receipt": {
@@ -243,10 +235,10 @@
           "Microsoft YaHei, Arial"
         ],
         "text_elements": 25,
-        "tspan_elements": 16
+        "tspan_elements": 20
       },
       "passed": true,
-      "source_sha256": "f358892ce19d946e3f9520533439374517079cf9c4cae064d8302e437b801428"
+      "source_sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
     },
     {
       "file": "03_global_puzzle.svg",
@@ -304,7 +296,7 @@
         "tspan_elements": 8
       },
       "passed": true,
-      "source_sha256": "843870cb61cc88037dc2c8f9002d62fbc41ccfa371fe80292fecd3b59974ee51"
+      "source_sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
     },
     {
       "file": "04_population_growth_80b.svg",
@@ -315,7 +307,7 @@
       "info": {
         "viewbox": "0 0 1280 720",
         "carrier_receipt": {
-          "text_elements": 34,
+          "text_elements": 33,
           "images": {
             "placements": 0,
             "files": [],
@@ -323,7 +315,7 @@
           },
           "icons": 2,
           "effects": {
-            "inline_emphasis_runs": 4,
+            "inline_emphasis_runs": 5,
             "gradient_uses": 0,
             "filter_uses": 0,
             "text_effects": 0
@@ -358,22 +350,22 @@
         "fonts": [
           "Microsoft YaHei, Arial"
         ],
-        "text_elements": 34,
-        "tspan_elements": 9
+        "text_elements": 33,
+        "tspan_elements": 13
       },
       "passed": true,
-      "source_sha256": "67e2a33acf2e18cb808e40c1355091c35d43f7503a24cedad2f58af4bfd5962d"
+      "source_sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
     },
     {
-      "file": "05_natural_growth_rate.svg",
-      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/05_natural_growth_rate.svg",
+      "file": "05_task1_blindbox.svg",
+      "path": "备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123/svg_output/05_task1_blindbox.svg",
       "exists": true,
       "errors": [],
       "warnings": [],
       "info": {
         "viewbox": "0 0 1280 720",
         "carrier_receipt": {
-          "text_elements": 17,
+          "text_elements": 34,
           "images": {
             "placements": 0,
             "files": [],
@@ -381,25 +373,23 @@
           },
           "icons": 1,
           "effects": {
-            "inline_emphasis_runs": 3,
+            "inline_emphasis_runs": 0,
             "gradient_uses": 0,
             "filter_uses": 0,
             "text_effects": 0
           },
           "geometry": {
             "svg_elements": {
-              "rect": 7,
-              "circle": 0,
+              "rect": 12,
+              "circle": 6,
               "ellipse": 0,
               "line": 0,
               "polyline": 0,
               "polygon": 0,
               "path": 0
             },
-            "preset_shapes": 3,
-            "preset_names": {
-              "downArrow": 3
-            },
+            "preset_shapes": 0,
+            "preset_names": {},
             "page_frame_elements": 2,
             "marker_uses": {
               "start": 0,
@@ -418,11 +408,11 @@
         "fonts": [
           "Microsoft YaHei, Arial"
         ],
-        "text_elements": 17,
-        "tspan_elements": 7
+        "text_elements": 34,
+        "tspan_elements": 2
       },
       "passed": true,
-      "source_sha256": "e80ca05b839fa0615890b89bcbd5ba4d87ebb108543b540207d2d78fb17d62a9"
+      "source_sha256": "b240d153e7f63d7a1befa0439ed3495efbb0e99f1697f1b0f0e610a77f857d9d"
     }
   ]
 }

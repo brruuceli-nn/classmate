@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F8FAFC"/>
+  <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#1E3A8A"/>
+
+  <g id="page-header" data-pptx-bounds="60 28 1160 76">
+    <text x="60" y="66" font-size="33" font-weight="bold" fill="#0F172A">板书因果结构小结：用“地理四把尺”看懂人口与人种</text>
+    <text x="60" y="98" font-size="18" fill="#475569">第五章《居民与文化》第一节《人口与人种》核心因果知识图谱</text>
+  </g>
+
+  <g id="root-node" data-pptx-bounds="340 124 600 72">
+    <rect x="340" y="124" width="600" height="72" rx="18" fill="#1E3A8A"/>
+    <text x="640" y="169" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">雪王全球选址（地理四把尺）</text>
+  </g>
+
+  <g id="branch-1-dist" data-pptx-bounds="60 206 376 338">
+    <g id="p13-arr-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="230 206 36 30" fill="#2563EB" stroke="none">
+    <path d="M 230 221 L 239 221 L 239 206 L 257 206 L 257 221 L 266 221 L 248 236 Z"/>
+    </g>
+    <rect x="60" y="244" width="376" height="260" rx="16" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2"/>
+    <rect x="60" y="244" width="376" height="50" rx="16" fill="#2563EB"/>
+    <text x="248" y="277" font-size="21" font-weight="bold" fill="#FFFFFF" text-anchor="middle">① 怎么分布？（四密 vs 四疏）</text>
+    <text x="84" y="328" font-size="18" font-weight="bold" fill="#1E3A8A">核心规律：中低纬沿海平原稠密</text>
+    <text x="84" y="366" font-size="17" fill="#334155">• 四密：亚东、亚南、欧西、北美东
+      <tspan x="84" dy="30">• 四疏：极干、极湿热、极寒、极高</tspan>
+      <tspan x="84" dy="38" font-weight="bold" fill="#0F172A">因果根源：地形 + 气候 + 海陆</tspan>
+      <tspan x="84" dy="28" fill="#475569">（活动②③重点突破·自然影响分布）</tspan>
+    </text>
+    <g id="p13-arr-4" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="230 514 36 30" fill="#15803D" stroke="none">
+    <path d="M 230 529 L 239 529 L 239 514 L 257 514 L 257 529 L 266 529 L 248 544 Z"/>
+    </g>
+  </g>
+
+  <g id="branch-2-growth" data-pptx-bounds="452 206 376 338">
+    <g id="p13-arr-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="622 206 36 30" fill="#DC2626" stroke="none">
+    <path d="M 622 221 L 631 221 L 631 206 L 649 206 L 649 221 L 658 221 L 640 236 Z"/>
+    </g>
+    <rect x="452" y="244" width="376" height="260" rx="16" fill="#FFFFFF" stroke="#FCA5A5" stroke-width="2"/>
+    <rect x="452" y="244" width="376" height="50" rx="16" fill="#DC2626"/>
+    <text x="640" y="277" font-size="21" font-weight="bold" fill="#FFFFFF" text-anchor="middle">② 怎么增长？（自然增长率）</text>
+    <text x="476" y="328" font-size="18" font-weight="bold" fill="#B91C1C">节点：2022.11.15 世界达 80 亿</text>
+    <text x="476" y="366" font-size="17" fill="#334155">• 公式：出生率 − 死亡率
+      <tspan x="476" dy="30">• 过快（印尼+9‰）：拥挤、资源压</tspan>
+      <tspan x="476" dy="30">• 过慢（日本−7‰）：老龄、缺劳力</tspan>
+      <tspan x="476" dy="38" font-weight="bold" fill="#0F172A">关键（活动①④）：增长与环境经济协调</tspan>
+    </text>
+    <g id="p13-arr-5" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="622 514 36 30" fill="#15803D" stroke="none">
+    <path d="M 622 529 L 631 529 L 631 514 L 649 514 L 649 529 L 658 529 L 640 544 Z"/>
+    </g>
+  </g>
+
+  <g id="branch-3-races" data-pptx-bounds="844 206 376 338">
+    <g id="p13-arr-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="1014 206 36 30" fill="#0F766E" stroke="none">
+    <path d="M 1014 221 L 1023 221 L 1023 206 L 1041 206 L 1041 221 L 1050 221 L 1032 236 Z"/>
+    </g>
+    <rect x="844" y="244" width="376" height="260" rx="16" fill="#FFFFFF" stroke="#86EFAC" stroke-width="2"/>
+    <rect x="844" y="244" width="376" height="50" rx="16" fill="#0F766E"/>
+    <text x="1032" y="277" font-size="21" font-weight="bold" fill="#FFFFFF" text-anchor="middle">③ 遇到谁？（三大人种）</text>
+    <text x="868" y="328" font-size="18" font-weight="bold" fill="#0F766E">黄种人 · 白种人 · 黑种人</text>
+    <text x="868" y="366" font-size="17" fill="#334155">• 体质特征：适应太阳辐射与气候
+      <tspan x="868" dy="30">• 分布变迁：历史人口迁移与融合</tspan>
+      <tspan x="868" dy="30">• 美洲例证：圣保罗/洛杉矶多元共居</tspan>
+      <tspan x="868" dy="38" font-weight="bold" fill="#0F172A">核心观念：人种无优劣、一律平等</tspan>
+    </text>
+    <g id="p13-arr-6" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="1014 514 36 30" fill="#15803D" stroke="none">
+    <path d="M 1014 529 L 1023 529 L 1023 514 L 1041 514 L 1041 529 L 1050 529 L 1032 544 Z"/>
+    </g>
+  </g>
+
+  <g id="bottom-convergence" data-pptx-bounds="60 554 1160 98">
+    <rect x="60" y="554" width="1160" height="98" rx="18" fill="#15803D"/>
+    <text x="640" y="596" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">人地协调观 · 尊重差异</text>
+    <text x="640" y="632" font-size="18" fill="#DCFCE7" text-anchor="middle">商业看热闹，地理看门道——用地理思维理解人口分布、增长调控与多元人种的和谐共生</text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
+    <text x="60" y="692">2024 秋新版人教版七年级上册 · 第五章《居民与文化》第一节《人口与人种》</text>
+    <text x="1220" y="692" text-anchor="end">第 13 页 / 共 14 页</text>
+  </g>
+</svg>

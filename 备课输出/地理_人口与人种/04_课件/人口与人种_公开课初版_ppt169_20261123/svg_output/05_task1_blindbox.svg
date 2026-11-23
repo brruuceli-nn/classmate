@@ -3,10 +3,10 @@
   <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#2563EB"/>
 
   <g id="page-header" data-pptx-bounds="60 30 1160 80">
-    <text x="60" y="70" font-size="34" font-weight="bold" fill="#0F172A">任务一：选“密”避“疏”——6 个待选点盲盒挑战</text>
-    <rect x="985" y="38" width="235" height="38" rx="19" fill="#DBEAFE"/>
-    <text x="1102" y="63" font-size="17" font-weight="bold" fill="#1E3A8A" text-anchor="middle">任务一 · 共 12 分钟</text>
-    <text x="60" y="102" font-size="18" fill="#475569">总部派单 6 个待选点，请调研员先凭直觉裁定“推荐 / 否决”，再对照地图包验证！</text>
+    <text x="60" y="70" font-size="33" font-weight="bold" fill="#0F172A">任务一（1）：选“密”避“疏”——6 个待选点盲盒挑战</text>
+    <rect x="920" y="38" width="300" height="38" rx="19" fill="#DBEAFE"/>
+    <text x="1070" y="63" font-size="16" font-weight="bold" fill="#1E3A8A" text-anchor="middle">小组活动② · 浅层感知（4 分钟）</text>
+    <text x="60" y="102" font-size="18" fill="#475569">第一阶（由浅入深起点）：组内先用分布图定位 6 个待选点，初判“推荐 / 否决”与密疏现象！</text>
   </g>
 
   <g id="site-list" data-pptx-bounds="60 128 620 438">
@@ -68,11 +68,11 @@
 
   <g id="blindbox-prompt" data-pptx-bounds="60 584 1160 68">
     <rect x="60" y="584" width="1160" height="68" rx="14" fill="#EFF6FF" stroke="#93C5FD" stroke-width="2"/>
-    <text x="90" y="625" font-size="20" font-weight="bold" fill="#1E3A8A">小组任务：快速写出 6 个待选点的“推荐 / 否决”及 1 句地理理由，下一页三图叠加揭晓答案！</text>
+    <text x="90" y="625" font-size="19" font-weight="bold" fill="#1E3A8A">【小组活动②任务】2 分钟快速勾出“推荐/否决”，在分布图上找出 6 点密度区间并写 1 个关键词！</text>
   </g>
 
   <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
-    <text x="60" y="692">核心概念：人口密度只反映人口分布疏密，不直接等于人口总数多少</text>
-    <text x="1220" y="692" text-anchor="end">第 6 页 / 共 13 页</text>
+    <text x="60" y="692">核心概念：人口密度只反映人口分布疏密，不直接等于人口总数多少（由浅入深第 1 步：感知现象）</text>
+    <text x="1220" y="692" text-anchor="end">第 5 页 / 共 14 页</text>
   </g>
 </svg>

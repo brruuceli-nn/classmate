@@ -4,8 +4,8 @@
   <rect id="deco-top-accent" data-pptx-role="decoration" x="18" y="0" width="1262" height="8" fill="#DC2626"/>
 
   <g id="cover-header" data-pptx-bounds="72 78 625 275">
-    <rect x="72" y="78" width="380" height="40" rx="20" fill="#FEE2E2"/>
-    <text x="92" y="105" font-size="18" font-weight="bold" fill="#B91C1C">45 分钟初中地理公开课 · 一境到底</text>
+    <rect x="72" y="78" width="420" height="40" rx="20" fill="#FEE2E2"/>
+    <text x="92" y="105" font-size="18" font-weight="bold" fill="#B91C1C">45 分钟初中地理公开课 · 4 阶小组探究</text>
 
     <text x="72" y="202" font-size="56" font-weight="bold" fill="#0F172A">人口与人种</text>
 
@@ -19,7 +19,7 @@
   <g id="cover-competencies" data-pptx-bounds="72 385 625 215">
     <rect x="72" y="385" width="625" height="215" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
     <text x="100" y="424" font-size="20" font-weight="bold" fill="#1E3A8A">本课核心定位：商业是壳，地理是核</text>
-    <text x="100" y="458" font-size="18" fill="#334155">80% 课堂时间牢牢锁定读图、计算与因果链推理，不变成商业营销课。</text>
+    <text x="100" y="458" font-size="18" fill="#334155">4 项由浅入深小组活动锁定“四密四疏”重点突破与人口增长因果链。</text>
 
     <rect x="100" y="492" width="132" height="42" rx="21" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="1.5"/>
     <text x="166" y="519" font-size="17" font-weight="bold" fill="#1E3A8A" text-anchor="middle">人地协调观</text>
@@ -50,9 +50,9 @@
     <text x="976" y="554" font-size="16" fill="#475569" text-anchor="middle">激发七年级学生探索世界人口与人种的兴趣</text>
   </g>
 
-  <g id="cover-footer" data-pptx-bounds="72 650 1148 36">
+  <g id="cover-footer" data-pptx-bounds="72 650 1148 36" font-size="15" fill="#64748B">
     <line x1="72" y1="646" x2="1220" y2="646" stroke="#E2E8F0" stroke-width="1.5"/>
-    <text x="72" y="676" font-size="15" fill="#64748B">核心基准更新：2022 年 11 月 15 日，世界人口达到 80 亿</text>
-    <text x="1220" y="676" font-size="15" fill="#64748B" text-anchor="end">第 1 页 / 共 13 页</text>
+    <text x="72" y="676">核心基准更新：2022 年 11 月 15 日，世界人口达到 80 亿</text>
+    <text x="1220" y="676" text-anchor="end">第 1 页 / 共 14 页</text>
   </g>
 </svg>

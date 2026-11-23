@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F8FAFC"/>
+  <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#DC2626"/>
+
+  <g id="page-header" data-pptx-bounds="60 30 1160 80">
+    <text x="60" y="70" font-size="33" font-weight="bold" fill="#0F172A">任务二前置工具：人口自然增长率怎么算？</text>
+    <rect x="965" y="38" width="255" height="38" rx="19" fill="#FEE2E2"/>
+    <text x="1092" y="63" font-size="16" font-weight="bold" fill="#B91C1C" text-anchor="middle">承接选“密”→ 看“增”防“老”</text>
+    <text x="60" y="102" font-size="18" fill="#475569">选定了人口稠密区，接下来要算“人口增长快慢”，才能看懂为什么东京也是稠密区却只开 4 家！</text>
+  </g>
+
+  <g id="formula-card" data-pptx-bounds="80 132 1120 122">
+    <rect x="80" y="132" width="1120" height="122" rx="18" fill="#1E3A8A"/>
+    <text x="640" y="192" font-size="34" font-weight="bold" fill="#FFFFFF" text-anchor="middle">人口自然增长率 ＝ 人口出生率 − 人口死亡率</text>
+    <text x="640" y="232" font-size="18" fill="#DBEAFE" text-anchor="middle">出生率 ＝ 年内出生人口 ÷ 总人口 × 100%（或 1000‰） ｜ 死亡率 ＝ 年内死亡人口 ÷ 总人口 × 100%（或 1000‰）</text>
+  </g>
+
+  <g id="state-positive" data-pptx-bounds="80 268 356 268">
+    <g id="p07-arr-pos" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="242 268 44 36" fill="#15803D" stroke="none">
+    <path d="M 242 286 L 253 286 L 253 268 L 275 268 L 275 286 L 286 286 L 264 304 Z"/>
+    </g>
+    <rect x="80" y="316" width="356" height="220" rx="16" fill="#F0FDF4" stroke="#86EFAC" stroke-width="2"/>
+    <text x="258" y="362" font-size="28" font-weight="bold" fill="#15803D" text-anchor="middle">&gt; 0（正增长）</text>
+    <text x="258" y="406" font-size="20" font-weight="bold" fill="#0F172A" text-anchor="middle">出生率 &gt; 死亡率</text>
+    <text x="110" y="450" font-size="18" fill="#334155">含义：人口数量<tspan font-weight="bold" fill="#15803D">不断增加</tspan>
+      <tspan x="110" dy="32">常见地区：亚洲、非洲、拉美多国</tspan>
+    </text>
+  </g>
+
+  <g id="state-zero" data-pptx-bounds="462 268 356 268">
+    <g id="p07-arr-zero" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="618 268 44 36" fill="#475569" stroke="none">
+    <path d="M 618 286 L 629 286 L 629 268 L 651 268 L 651 286 L 662 286 L 640 304 Z"/>
+    </g>
+    <rect x="462" y="316" width="356" height="220" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+    <text x="640" y="362" font-size="28" font-weight="bold" fill="#475569" text-anchor="middle">＝ 0（零增长）</text>
+    <text x="640" y="406" font-size="20" font-weight="bold" fill="#0F172A" text-anchor="middle">出生率 ＝ 死亡率</text>
+    <text x="492" y="450" font-size="18" fill="#334155">含义：人口数量<tspan font-weight="bold" fill="#0F172A">停止增长</tspan>
+      <tspan x="492" dy="32">处于增减转折的平衡状态</tspan>
+    </text>
+  </g>
+
+  <g id="state-negative" data-pptx-bounds="844 268 356 268">
+    <g id="p07-arr-neg" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="994 268 44 36" fill="#DC2626" stroke="none">
+    <path d="M 994 286 L 1005 286 L 1005 268 L 1027 268 L 1027 286 L 1038 286 L 1016 304 Z"/>
+    </g>
+    <rect x="844" y="316" width="356" height="220" rx="16" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="2"/>
+    <text x="1022" y="362" font-size="28" font-weight="bold" fill="#DC2626" text-anchor="middle">&lt; 0（负增长）</text>
+    <text x="1022" y="406" font-size="20" font-weight="bold" fill="#0F172A" text-anchor="middle">出生率 &lt; 死亡率</text>
+    <text x="874" y="450" font-size="18" fill="#334155">含义：人口数量<tspan font-weight="bold" fill="#DC2626">逐渐减少</tspan>
+      <tspan x="874" dy="32">注意计算结果要带负号（−）！</tspan>
+    </text>
+  </g>
+
+  <g id="warmup-drill" data-pptx-bounds="80 550 1120 106">
+    <rect x="80" y="550" width="1120" height="106" rx="14" fill="#FFFBEB" stroke="#FCD34D" stroke-width="2"/>
+    <use data-icon="tabler-filled/bulb" x="108" y="572" width="40" height="40" fill="#D97706"/>
+    <text x="164" y="588" font-size="20" font-weight="bold" fill="#B45309">【心算热身】拿稳公式，下一页立即分组给印尼与日本门店做体检！</text>
+    <text x="164" y="618" font-size="18" fill="#334155">① 若某国出生率 16‰、死亡率 7‰ → 自然增长率 ＝ ______ ‰
+      <tspan x="164" dy="26">② 若某国出生率 6‰、死亡率 13‰ → 自然增长率 ＝ ______ ‰（注意正负号！）</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
+    <text x="60" y="692">数理提醒：自然增长率 &lt; 0 时务必写出负号，负增长表示人口总数减少</text>
+    <text x="1220" y="692" text-anchor="end">第 7 页 / 共 14 页</text>
+  </g>
+</svg>
