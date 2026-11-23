@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F8FAFC"/>
+  <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#1E3A8A"/>
+
+  <g id="page-header" data-pptx-bounds="60 30 1160 80">
+    <text x="60" y="70" font-size="34" font-weight="bold" fill="#0F172A">世界人口数量变化：从缓慢增长到突破 80 亿</text>
+    <rect x="975" y="38" width="245" height="38" rx="19" fill="#FEE2E2"/>
+    <text x="1097" y="63" font-size="17" font-weight="bold" fill="#B91C1C" text-anchor="middle">2024 新教材重要锚点</text>
+    <text x="60" y="102" font-size="18" fill="#475569">先看全球人口总盘子：每增加 10 亿人口所需时间变化曲线</text>
+  </g>
+
+  <g id="pop-growth-chart" data-pptx-bounds="60 128 710 520">
+    <rect x="60" y="128" width="710" height="520" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <text x="90" y="166" font-size="20" font-weight="bold" fill="#0F172A">世界人口增长示意曲线（1800–2022 年）</text>
+    <text x="90" y="192" font-size="15" fill="#64748B">单位：亿人（标注“每增加 10 亿所需年数”）</text>
+
+    <g id="pop-growth-chart-chartArea">
+      <line x1="130" y1="215" x2="730" y2="215" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="130" y1="300" x2="730" y2="300" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="130" y1="385" x2="730" y2="385" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="130" y1="470" x2="730" y2="470" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="4,4"/>
+      <line x1="130" y1="555" x2="730" y2="555" stroke="#64748B" stroke-width="2"/>
+      <line x1="130" y1="215" x2="130" y2="555" stroke="#64748B" stroke-width="2"/>
+
+      <text x="118" y="221" font-size="15" fill="#475569" text-anchor="end">80</text>
+      <text x="118" y="306" font-size="15" fill="#475569" text-anchor="end">60</text>
+      <text x="118" y="391" font-size="15" fill="#475569" text-anchor="end">40</text>
+      <text x="118" y="476" font-size="15" fill="#475569" text-anchor="end">20</text>
+      <text x="118" y="560" font-size="15" fill="#475569" text-anchor="end">0</text>
+
+      <text x="130" y="582" font-size="15" fill="#475569" text-anchor="middle">1800</text>
+      <text x="477" y="582" font-size="15" fill="#475569" text-anchor="middle">1930</text>
+      <text x="557" y="582" font-size="15" fill="#475569" text-anchor="middle">1960</text>
+      <text x="661" y="582" font-size="15" fill="#475569" text-anchor="middle">1999</text>
+      <text x="724" y="582" font-size="15" font-weight="bold" fill="#DC2626" text-anchor="middle">2022</text>
+
+      <!-- chart-plot-area: object=pop-growth-chart | 130,215,730,555 -->
+      <path d="M 130 512.5 L 476.7 470 L 556.7 427.5 L 594 385 L 628.7 342.5 L 660.7 300 L 692.7 257.5 L 724.3 215" fill="none" stroke="#1E3A8A" stroke-width="4"/>
+
+      <circle cx="130" cy="512.5" r="6" fill="#1E3A8A"/>
+      <circle cx="476.7" cy="470" r="6" fill="#1E3A8A"/>
+      <circle cx="556.7" cy="427.5" r="6" fill="#1E3A8A"/>
+      <circle cx="594" cy="385" r="6" fill="#1E3A8A"/>
+      <circle cx="628.7" cy="342.5" r="6" fill="#1E3A8A"/>
+      <circle cx="660.7" cy="300" r="6" fill="#1E3A8A"/>
+      <circle cx="692.7" cy="257.5" r="6" fill="#1E3A8A"/>
+      <circle cx="724.3" cy="215" r="8" fill="#DC2626" stroke="#FFFFFF" stroke-width="2"/>
+
+      <text x="142" y="498" font-size="15" font-weight="bold" fill="#1E3A8A">10亿 (1800)</text>
+      <text x="305" y="476" font-size="15" fill="#64748B" text-anchor="middle">约130年 →</text>
+      <text x="462" y="454" font-size="15" font-weight="bold" fill="#1E3A8A" text-anchor="end">20亿</text>
+      <text x="542" y="418" font-size="15" fill="#1E3A8A" text-anchor="end">30亿(30年)</text>
+      <text x="580" y="376" font-size="15" fill="#1E3A8A" text-anchor="end">40亿(14年)</text>
+      <text x="615" y="334" font-size="15" fill="#1E3A8A" text-anchor="end">50亿(13年)</text>
+      <text x="646" y="292" font-size="15" fill="#1E3A8A" text-anchor="end">60亿(12年)</text>
+      <text x="678" y="250" font-size="15" fill="#1E3A8A" text-anchor="end">70亿(12年)</text>
+      <text x="676" y="216" font-size="18" font-weight="bold" fill="#DC2626" text-anchor="end">80亿 (11年)</text>
+    </g>
+
+    <rect x="90" y="598" width="650" height="36" rx="8" fill="#EFF6FF"/>
+    <text x="415" y="622" font-size="16" font-weight="bold" fill="#1E3A8A" text-anchor="middle">心算挑战：70 亿（2011 年）→ 80 亿（2022.11.15），仅用了约 11 年！</text>
+  </g>
+
+  <g id="milestone-80b" data-pptx-bounds="792 128 428 156">
+    <rect x="792" y="128" width="428" height="156" rx="16" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="2"/>
+    <use data-icon="tabler-filled/flag" x="816" y="150" width="38" height="38" fill="#DC2626"/>
+    <text x="866" y="176" font-size="22" font-weight="bold" fill="#B91C1C">80 亿里程碑</text>
+    <text x="816" y="220" font-size="22" font-weight="bold" fill="#0F172A">2022 年 11 月 15 日</text>
+    <text x="816" y="256" font-size="18" fill="#334155">世界人口正式达到 <tspan font-weight="bold" fill="#DC2626">80 亿</tspan>（2024 新教材更新）</text>
+  </g>
+
+  <g id="growth-stages" data-pptx-bounds="792 298 428 190">
+    <rect x="792" y="298" width="428" height="190" rx="16" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <text x="816" y="334" font-size="20" font-weight="bold" fill="#1E3A8A">世界人口增长阶段特征</text>
+    <text x="816" y="370" font-size="17" fill="#334155">1. 18 世纪以前：增长<tspan font-weight="bold" fill="#0F172A">十分缓慢</tspan>
+      <tspan x="816" dy="32">2. 18 世纪以后（二战后）：增长<tspan font-weight="bold" fill="#DC2626">大大加快</tspan></tspan>
+      <tspan x="816" dy="32">3. 近几十年：增速<tspan font-weight="bold" fill="#15803D">有所放缓</tspan>，但基数庞大，</tspan>
+      <tspan x="816" dy="26">每年新增人口数量依然很多</tspan>
+    </text>
+  </g>
+
+  <g id="textbook-curve-placeholder" data-pptx-bounds="792 502 428 146">
+    <rect x="792" y="502" width="428" height="146" rx="14" fill="#F1F5F9" stroke="#94A3B8" stroke-width="2" stroke-dasharray="6,4"/>
+    <use data-icon="tabler-filled/photo" x="816" y="524" width="32" height="32" fill="#475569"/>
+    <text x="858" y="546" font-size="18" font-weight="bold" fill="#1E3A8A">【教材原图占位示意框】</text>
+    <text x="816" y="582" font-size="16" fill="#334155">此处放置：2024 人教版七上教材原图
+      <tspan x="816" dy="26">《世界人口增长曲线图》与“思与学”栏</tspan>
+      <tspan x="816" dy="26">（对照教材文字读取 80 亿增长时间跨度）</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
+    <text x="60" y="692">核心素养：综合思维 · 通过时间跨度体会人口增长速度的时空变化</text>
+    <text x="1220" y="692" text-anchor="end">第 4 页 / 共 13 页</text>
+  </g>
+</svg>
