@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F8FAFC"/>
+  <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#DC2626"/>
+
+  <g id="page-header" data-pptx-bounds="60 28 1160 76">
+    <text x="60" y="66" font-size="33" font-weight="bold" fill="#0F172A">记者连线收束：人口越多、增长越快就越好吗？</text>
+    <rect x="985" y="34" width="235" height="36" rx="18" fill="#FEE2E2"/>
+    <text x="1102" y="58" font-size="16" font-weight="bold" fill="#B91C1C" text-anchor="middle">记者连线 · 板书结论</text>
+    <text x="60" y="98" font-size="18" fill="#475569">连线印尼雅加达分部 &amp; 日本东京分部：对比黑板左右两边，提炼人口问题的核心规律</text>
+  </g>
+
+  <g id="calc-left" data-pptx-bounds="60 122 560 92">
+    <rect x="60" y="122" width="560" height="92" rx="14" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="2"/>
+    <use data-icon="tabler-filled/microphone" x="84" y="146" width="38" height="38" fill="#DC2626"/>
+    <text x="136" y="160" font-size="20" font-weight="bold" fill="#B91C1C">A 卡揭晓：印尼雅加达（增长较快）</text>
+    <text x="136" y="194" font-size="20" font-weight="bold" fill="#0F172A">16‰ − 7‰ ＝ <tspan fill="#DC2626">+9‰（正增长）</tspan></text>
+  </g>
+
+  <g id="calc-right" data-pptx-bounds="660 122 560 92">
+    <rect x="660" y="122" width="560" height="92" rx="14" fill="#EFF6FF" stroke="#93C5FD" stroke-width="2"/>
+    <use data-icon="tabler-filled/microphone" x="684" y="146" width="38" height="38" fill="#1E3A8A"/>
+    <text x="736" y="160" font-size="20" font-weight="bold" fill="#1E3A8A">B 卡揭晓：日本东京（负增长/老龄化）</text>
+    <text x="736" y="194" font-size="20" font-weight="bold" fill="#0F172A">6‰ − 13‰ ＝ <tspan fill="#1E3A8A">−7‰（负增长）</tspan></text>
+  </g>
+
+  <g id="cause-fast" data-pptx-bounds="60 222 560 302">
+    <g id="p09-arr-left" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="318 222 44 32" fill="#DC2626" stroke="none">
+    <path d="M 318 238 L 329 238 L 329 222 L 351 222 L 351 238 L 362 238 L 340 254 Z"/>
+    </g>
+    <rect x="60" y="264" width="560" height="260" rx="16" fill="#FFFFFF" stroke="#FCA5A5" stroke-width="2"/>
+    <text x="88" y="302" font-size="22" font-weight="bold" fill="#B91C1C">人口数量过多、增长过快的问题</text>
+    <text x="88" y="344" font-size="18" fill="#334155">• 优势：年轻消费群体多、劳动力相对充足
+      <tspan x="88" dy="34" font-weight="bold" fill="#DC2626">• 突出问题（结合雅加达案例）：</tspan>
+      <tspan x="88" dy="32">  1. 交通拥堵（市区大堵车、原料晚点）</tspan>
+      <tspan x="88" dy="30">  2. 住房紧张（员工挤在城中村）、资源环境承压</tspan>
+      <tspan x="88" dy="30">  3. 就业、教育、医疗困难与人均收入承压</tspan>
+      <tspan x="88" dy="34" font-weight="bold" fill="#15803D">• 应对举措：合理控制增长，完善基建与教育</tspan>
+    </text>
+  </g>
+
+  <g id="cause-slow" data-pptx-bounds="660 222 560 302">
+    <g id="p09-arr-right" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="downArrow" data-pptx-frame="918 222 44 32" fill="#1E3A8A" stroke="none">
+    <path d="M 918 238 L 929 238 L 929 222 L 951 222 L 951 238 L 962 238 L 940 254 Z"/>
+    </g>
+    <rect x="660" y="264" width="560" height="260" rx="16" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2"/>
+    <text x="688" y="302" font-size="22" font-weight="bold" fill="#1E3A8A">人口增长过慢、负增长与老龄化问题</text>
+    <text x="688" y="344" font-size="18" fill="#334155">• 现象：65 岁以上占比近 30%、中学减班
+      <tspan x="688" dy="34" font-weight="bold" fill="#1E3A8A">• 突出问题（结合东京案例）：</tspan>
+      <tspan x="688" dy="32">  1. 劳动力短缺（店员招工难、高薪抢人）</tspan>
+      <tspan x="688" dy="30">  2. 国防兵源不足、社会养老负担加重</tspan>
+      <tspan x="688" dy="30">  3. 年轻客源萎缩（冷饮消费需求偏弱）</tspan>
+      <tspan x="688" dy="34" font-weight="bold" fill="#15803D">• 应对举措：鼓励生育、延迟退休、发展养老服务</tspan>
+    </text>
+  </g>
+
+  <g id="harmony-banner" data-pptx-bounds="60 544 1160 110">
+    <rect x="60" y="544" width="1160" height="110" rx="16" fill="#15803D"/>
+    <use data-icon="tabler-filled/scale" x="92" y="576" width="46" height="46" fill="#FFFFFF"/>
+    <text x="156" y="592" font-size="24" font-weight="bold" fill="#FFFFFF">板书核心结论 · 人地协调观</text>
+    <text x="156" y="630" font-size="21" fill="#DCFCE7">人口不是越多、越快越好，也不是越慢越好——<tspan font-weight="bold" fill="#FFFFFF">人口增长必须与资源环境相协调，与社会经济发展相适应！</tspan></text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
+    <text x="60" y="692">核心素养：人地协调观 · 辩证看待人口增长过快与人口老龄化两类问题</text>
+    <text x="1220" y="692" text-anchor="end">第 9 页 / 共 13 页</text>
+  </g>
+</svg>
