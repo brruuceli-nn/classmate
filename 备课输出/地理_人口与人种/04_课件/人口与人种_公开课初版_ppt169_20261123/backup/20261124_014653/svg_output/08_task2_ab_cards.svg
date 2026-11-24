@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Arial" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#F8FAFC"/>
+  <rect id="deco-top-bar" data-pptx-role="decoration" x="0" y="0" width="1280" height="8" fill="#DC2626"/>
+
+  <g id="page-header" data-pptx-bounds="60 26 1160 76">
+    <text x="60" y="64" font-size="32" font-weight="bold" fill="#0F172A">任务二（1）：看“增”防“老”——A/B 门店体检档案诊断</text>
+    <rect x="920" y="32" width="300" height="36" rx="18" fill="#FEE2E2"/>
+    <text x="1070" y="56" font-size="16" font-weight="bold" fill="#B91C1C" text-anchor="middle">小组活动④ · 分工诊断（5 分钟）</text>
+    <text x="60" y="94" font-size="17" fill="#475569">4 人分工（计算官 + 红蓝证据官 + 连线发言官）：东京也是稠密区，为何只开 4 家而印尼越开越火？</text>
+  </g>
+
+  <g id="card-a-indonesia" data-pptx-bounds="60 118 566 538">
+    <rect x="60" y="118" width="566" height="538" rx="16" fill="#FFFFFF" stroke="#FCA5A5" stroke-width="2.5"/>
+    <rect x="60" y="118" width="566" height="52" rx="16" fill="#DC2626"/>
+    <text x="84" y="152" font-size="21" font-weight="bold" fill="#FFFFFF">【A 卡】印尼雅加达门店体检档案（1 / 3 / 5 组用）</text>
+
+    <rect x="82" y="184" width="522" height="122" rx="12" fill="#FEF2F2"/>
+    <text x="100" y="212" font-size="18" font-weight="bold" fill="#B91C1C">1. 人口体检单</text>
+    <text x="100" y="240" font-size="17" fill="#0F172A">全国人口约 <tspan font-weight="bold" fill="#DC2626">2.8 亿</tspan>（东南亚第一）；
+      <tspan x="100" dy="28">某年出生率约 <tspan font-weight="bold">16‰</tspan>、死亡率约 <tspan font-weight="bold">7‰</tspan> → <tspan font-weight="bold" fill="#DC2626">自然增长率 = ______ ‰</tspan></tspan>
+      <tspan x="100" dy="28">0–14 岁青少年占比高（年轻面孔多）。</tspan>
+    </text>
+
+    <text x="84" y="336" font-size="18" font-weight="bold" fill="#0F172A">2. 店长语音转文字</text>
+    <rect x="82" y="348" width="522" height="148" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+    <text x="100" y="376" font-size="16" fill="#334155">“雅加达常年炎热，每天门口排长队，年轻学生特别多！
+      <tspan x="100" dy="26" font-weight="bold" fill="#0F172A">但麻烦也来了：</tspan>
+      <tspan x="100" dy="26">市区天天大堵车，冷链原料老晚点；郊区好多本地小老板</tspan>
+      <tspan x="100" dy="26">想加盟，可人均收入不高，凑不齐启动资金，</tspan>
+      <tspan x="100" dy="26">招来的年轻店员也常常挤在城中村……”</tspan>
+    </text>
+
+    <rect x="82" y="510" width="522" height="128" rx="12" fill="#EFF6FF" stroke="#93C5FD" stroke-width="1.5"/>
+    <text x="100" y="538" font-size="17" font-weight="bold" fill="#1E3A8A">3. 诊断任务（2 分半）</text>
+    <text x="100" y="566" font-size="16" fill="#0F172A">① 用<tspan font-weight="bold" fill="#DC2626">红笔</tspan>圈出让店长开心的 1 个词；
+      <tspan x="100" dy="26">② 用<tspan font-weight="bold" fill="#2563EB">蓝笔</tspan>圈出让店长头疼的 2 个词，</tspan>
+      <tspan x="100" dy="26">思考：这和“自然增长率较高”有什么关系？</tspan>
+    </text>
+  </g>
+
+  <g id="card-b-japan" data-pptx-bounds="654 118 566 538">
+    <rect x="654" y="118" width="566" height="538" rx="16" fill="#FFFFFF" stroke="#93C5FD" stroke-width="2.5"/>
+    <rect x="654" y="118" width="566" height="52" rx="16" fill="#1E3A8A"/>
+    <text x="678" y="152" font-size="21" font-weight="bold" fill="#FFFFFF">【B 卡】日本东京门店体检档案（2 / 4 / 6 组用）</text>
+
+    <rect x="676" y="184" width="522" height="122" rx="12" fill="#EFF6FF"/>
+    <text x="694" y="212" font-size="18" font-weight="bold" fill="#1E3A8A">1. 人口体检单</text>
+    <text x="694" y="240" font-size="17" fill="#0F172A">某年出生率约 <tspan font-weight="bold">6‰</tspan>、死亡率约 <tspan font-weight="bold">13‰</tspan>
+      <tspan x="694" dy="28">→ <tspan font-weight="bold" fill="#DC2626">自然增长率 = ______ ‰</tspan>（注意正负号！）</tspan>
+      <tspan x="694" dy="28">65 岁以上老年人占比近 <tspan font-weight="bold" fill="#1E3A8A">30%</tspan>（街上白发老人多）。</tspan>
+    </text>
+
+    <text x="678" y="336" font-size="18" font-weight="bold" fill="#0F172A">2. 店长语音转文字</text>
+    <rect x="676" y="348" width="522" height="148" rx="12" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1.5"/>
+    <text x="694" y="376" font-size="16" fill="#334155">“店就在东京闹市区，周围人不少，
+      <tspan x="694" dy="26" font-weight="bold" fill="#0F172A">但我 3 年只敢开 4 家店：</tspan>
+      <tspan x="694" dy="26">门口贴了半年《诚聘年轻兼职店员》没人应聘，只能高薪</tspan>
+      <tspan x="694" dy="26">抢人；旁边中学去年又少了一个班，平时路过的多是遛弯</tspan>
+      <tspan x="694" dy="26">的老人，很少买冰奶茶……”</tspan>
+    </text>
+
+    <rect x="676" y="510" width="522" height="128" rx="12" fill="#FFFBEB" stroke="#FCD34D" stroke-width="1.5"/>
+    <text x="694" y="538" font-size="17" font-weight="bold" fill="#B45309">3. 诊断任务（2 分半）</text>
+    <text x="694" y="566" font-size="16" fill="#0F172A">① 用<tspan font-weight="bold" fill="#DC2626">红笔</tspan>标出自然增长率是正增长还是负增长；
+      <tspan x="694" dy="26">② 用<tspan font-weight="bold" fill="#2563EB">蓝笔</tspan>圈出让店长开不动店的 2 个原因，</tspan>
+      <tspan x="694" dy="26">思考：这和“老年人占比高”有什么关系？</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-bounds="60 672 1160 28" font-size="14" fill="#64748B">
+    <text x="60" y="692">【图片占位：可于两侧附雅加达年轻客流 vs 东京银发街景对比图】活动④分工：计算官＋红蓝证据官＋发言官</text>
+    <text x="1220" y="692" text-anchor="end">第 8 页 / 共 14 页</text>
+  </g>
+</svg>

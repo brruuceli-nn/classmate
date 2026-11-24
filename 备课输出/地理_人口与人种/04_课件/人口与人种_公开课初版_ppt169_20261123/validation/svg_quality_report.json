@@ -4,7 +4,7 @@
   "target": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/人口与人种_公开课初版_ppt169_20261123",
   "source_fingerprint": {
     "algorithm": "sha256",
-    "digest": "8b57b1635c918386f39780c1a9b0a918da96dc6c76f7a2b93be4212bd4fab72a",
+    "digest": "7816d7e58ec289ee5ac2bb10adf55037e17e9820e7c54580856499f8ba2d6668",
     "file_count": 14,
     "files": [
       {
@@ -13,15 +13,15 @@
       },
       {
         "file": "02_mission_overview.svg",
-        "sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
+        "sha256": "881d9da943e3942c28c2957e42639d4f08812063ba085024bcdb3453bc9f8e6d"
       },
       {
         "file": "03_global_puzzle.svg",
-        "sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
+        "sha256": "b80c88404d313fe3ee62e1f0106ecf41352ebbd2cbc0004342a85a6e88312715"
       },
       {
         "file": "04_population_growth_80b.svg",
-        "sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
+        "sha256": "154639fb15796134ee3e84562766e09a082329b4c314f5e02c3550b996a78d84"
       },
       {
         "file": "05_task1_blindbox.svg",
@@ -29,7 +29,7 @@
       },
       {
         "file": "06_task1_three_maps.svg",
-        "sha256": "715fdadfb8f69e37d0a72b5ed5e2d5324cf73e92f7152ed48553497ffff1ebde"
+        "sha256": "982de91f534adbbafa6f8449b08a8a964acea74c6a41947cfc3252ef3a088e43"
       },
       {
         "file": "07_natural_growth_rate.svg",
@@ -45,7 +45,7 @@
       },
       {
         "file": "10_task3_races_adapt.svg",
-        "sha256": "1637897227a3ffdd9a19d243720d339dc175483a0d4bd0f84d3fd14eda6557b3"
+        "sha256": "d375ae720c703cd3255e3e61274d6cf545a02265d38fc5f3684fe352b52755ad"
       },
       {
         "file": "11_task3_diversity.svg",
@@ -277,7 +277,7 @@
         "tspan_elements": 20
       },
       "passed": true,
-      "source_sha256": "71beae703829faca5f4820baba5d8226a586667eb09f008b2d44998e55c513fa"
+      "source_sha256": "881d9da943e3942c28c2957e42639d4f08812063ba085024bcdb3453bc9f8e6d"
     },
     {
       "file": "03_global_puzzle.svg",
@@ -335,7 +335,7 @@
         "tspan_elements": 8
       },
       "passed": true,
-      "source_sha256": "ac3e41854422e52b628b0cb7ef98bd5ef99409440a20ba50fd9f1bc0bd1db2d1"
+      "source_sha256": "b80c88404d313fe3ee62e1f0106ecf41352ebbd2cbc0004342a85a6e88312715"
     },
     {
       "file": "04_population_growth_80b.svg",
@@ -393,7 +393,7 @@
         "tspan_elements": 13
       },
       "passed": true,
-      "source_sha256": "2382e2bc388bf3b800057b934ab3e652b829fd911bdab448c4b12edca3c4bbf4"
+      "source_sha256": "154639fb15796134ee3e84562766e09a082329b4c314f5e02c3550b996a78d84"
     },
     {
       "file": "05_task1_blindbox.svg",
@@ -512,7 +512,7 @@
         "tspan_elements": 6
       },
       "passed": true,
-      "source_sha256": "715fdadfb8f69e37d0a72b5ed5e2d5324cf73e92f7152ed48553497ffff1ebde"
+      "source_sha256": "982de91f534adbbafa6f8449b08a8a964acea74c6a41947cfc3252ef3a088e43"
     },
     {
       "file": "07_natural_growth_rate.svg",
@@ -748,7 +748,7 @@
         "tspan_elements": 25
       },
       "passed": true,
-      "source_sha256": "1637897227a3ffdd9a19d243720d339dc175483a0d4bd0f84d3fd14eda6557b3"
+      "source_sha256": "d375ae720c703cd3255e3e61274d6cf545a02265d38fc5f3684fe352b52755ad"
     },
     {
       "file": "11_task3_diversity.svg",
