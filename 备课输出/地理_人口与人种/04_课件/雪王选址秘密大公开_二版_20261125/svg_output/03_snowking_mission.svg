@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#E11D48"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A"/>
+
+  <g id="p03-title-group" data-pptx-bounds="56 32 1168 92">
+    <rect x="56" y="32" width="236" height="32" rx="16" fill="#FFF5F5" stroke="#FECDD3" stroke-width="1"/>
+    <text x="174" y="54" font-size="16" font-weight="bold" fill="#E11D48" text-anchor="middle">角色任命 · 全球选址调研员</text>
+    <text x="56" y="106" font-size="38" font-weight="bold" fill="#1E3A8A">欢迎入职！雪王全球选址调研员考核开启</text>
+  </g>
+
+  <g id="p03-mascot-card" data-pptx-bounds="56 146 312 478">
+    <rect x="56" y="146" width="312" height="478" rx="20" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <image href="../images/snowking_surveyor_cute.jpg" x="72" y="166" width="280" height="280" preserveAspectRatio="xMidYMid meet"/>
+
+    <text x="212" y="486" font-size="22" font-weight="bold" fill="#1E3A8A" text-anchor="middle">雪王全球选址调研员</text>
+    <text x="212" y="520" font-size="16" fill="#64748B" text-anchor="middle">佩戴调研帽 · 地理考察即刻启程</text>
+    <rect x="92" y="554" width="240" height="44" rx="22" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <text x="212" y="583" font-size="18" font-weight="bold" fill="#E11D48" text-anchor="middle">总部选址督导：小王老师</text>
+  </g>
+
+  <g id="p03-speech-area" data-pptx-bounds="380 160 844 266">
+    <g id="p03-speech-callout" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="wedgeRoundRectCallout" data-pptx-frame="470 168 750 250" data-pptx-av-adj1="val -62000" data-pptx-av-adj2="val 10000" fill="#FFF5F5" stroke="#E11D48" stroke-width="3">
+      <path d="M 470 209.67 A 41.67 41.67 0 0 1 511.67 168 L 595 168 L 595 168 L 782.5 168 L 1178.33 168 A 41.67 41.67 0 0 1 1220 209.67 L 1220 313.83 L 1220 313.83 L 1220 376.33 L 1220 376.33 A 41.67 41.67 0 0 1 1178.33 418 L 782.5 418 L 595 418 L 595 418 L 511.67 418 A 41.67 41.67 0 0 1 470 376.33 L 470 376.33 L 380 318 L 470 313.83 Z"/>
+    </g>
+    <use data-icon="tabler-filled/gift" x="506" y="202" width="40" height="40" fill="#E11D48"/>
+    <text x="560" y="234" font-size="28" font-weight="bold" fill="#E11D48">雪王考官向全体调研员发话啦：</text>
+    <text x="506" y="294" font-size="30" font-weight="bold" fill="#1E3A8A">“各位新上任的全球选址调研员，
+      <tspan x="506" dy="50">只有通过我的重重考验，才能获得专属纪念品——</tspan>
+      <tspan x="506" dy="48" font-size="28" fill="#D97706">『雪王认可奖』！大家有信心通关吗？”</tspan>
+    </text>
+  </g>
+
+  <g id="p03-stages-strip" data-pptx-bounds="470 448 750 176">
+    <rect x="470" y="448" width="750" height="176" rx="18" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+    <use data-icon="tabler-filled/trophy" x="498" y="470" width="30" height="30" fill="#D97706"/>
+    <text x="538" y="494" font-size="22" font-weight="bold" fill="#1E3A8A">今日『雪王认可奖』四重考核关卡</text>
+
+    <rect x="498" y="518" width="164" height="82" rx="12" fill="#EFF6FF"/>
+    <text x="580" y="552" font-size="20" font-weight="bold" fill="#1E3A8A" text-anchor="middle">第一关</text>
+    <text x="580" y="582" font-size="17" fill="#1E293B" text-anchor="middle">摸清80亿大盘</text>
+
+    <rect x="676" y="518" width="164" height="82" rx="12" fill="#F0FDF4"/>
+    <text x="758" y="552" font-size="20" font-weight="bold" fill="#15803D" text-anchor="middle">第二关</text>
+    <text x="758" y="582" font-size="17" fill="#1E293B" text-anchor="middle">找稠密避稀疏</text>
+
+    <rect x="854" y="518" width="164" height="82" rx="12" fill="#FFF5F5"/>
+    <text x="936" y="552" font-size="20" font-weight="bold" fill="#E11D48" text-anchor="middle">第三关</text>
+    <text x="936" y="582" font-size="17" fill="#1E293B" text-anchor="middle">算自然增长率</text>
+
+    <rect x="1032" y="518" width="164" height="82" rx="12" fill="#FEF3C7"/>
+    <text x="1114" y="552" font-size="20" font-weight="bold" fill="#D97706" text-anchor="middle">终极关</text>
+    <text x="1114" y="582" font-size="17" fill="#1E293B" text-anchor="middle">圈选址敬人种</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 ppt 02 · 动漫卡通人物雪王调研员与专属纪念品考验</text>
+    <text x="1224" y="674" text-anchor="end">P03 / 22</text>
+  </g>
+</svg>

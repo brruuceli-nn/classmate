@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#1E3A8A"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p19-header" data-pptx-bounds="56 24 1168 102">
+    <rect x="56" y="24" width="268" height="30" rx="15" fill="#EFF6FF"/>
+    <text x="190" y="45" font-size="16" font-weight="bold" fill="#1E3A8A" text-anchor="middle">环节三 · 人口问题辩证看</text>
+    <text x="56" y="90" font-size="36" font-weight="bold" fill="#1E3A8A">除了奶茶营销，人口自然增长率对社会其他方面有何影响？</text>
+    <text x="56" y="118" font-size="18" fill="#64748B">无论是人口增长过快，还是人口增长过慢，都会给资源、环境与社会经济带来严峻挑战！</text>
+  </g>
+
+  <g id="p19-too-fast" data-pptx-bounds="56 140 564 486">
+    <rect x="56" y="140" width="564" height="486" rx="20" fill="#FFF5F5" stroke="#E11D48" stroke-width="2.5"/>
+    <rect x="56" y="140" width="564" height="60" rx="20" fill="#E11D48"/>
+    <!-- icon: tabler-filled/flame -->
+  <g transform="translate(82, 154) scale(1.33333)" fill="#FFFFFF">
+    <path d="M10 2c0 -.88 1.056 -1.331 1.692 -.722c1.958 1.876 3.096 5.995 1.75 9.12l-.08 .174l.012 .003c.625 .133 1.203 -.43 2.303 -2.173l.14 -.224a1 1 0 0 1 1.582 -.153c1.334 1.435 2.601 4.377 2.601 6.27c0 4.265 -3.591 7.705 -8 7.705s-8 -3.44 -8 -7.706c0 -2.252 1.022 -4.716 2.632 -6.301l.605 -.589c.241 -.236 .434 -.43 .618 -.624c1.43 -1.512 2.145 -2.924 2.145 -4.78" />
+  </g>
+    <text x="126" y="180" font-size="26" font-weight="bold" fill="#FFFFFF">人口增长过快 · 带来的问题</text>
+
+    <rect x="84" y="226" width="508" height="110" rx="14" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <circle cx="134" cy="281" r="28" fill="#FFF5F5"/>
+    <!-- icon: tabler-filled/car -->
+  <g transform="translate(116, 263) scale(1.5)" fill="#E11D48">
+    <path d="M14 5a1 1 0 0 1 .694 .28l.087 .095l3.699 4.625h.52a3 3 0 0 1 2.995 2.824l.005 .176v4a1 1 0 0 1 -1 1h-1.171a3.001 3.001 0 0 1 -5.658 0h-4.342a3.001 3.001 0 0 1 -5.658 0h-1.171a1 1 0 0 1 -1 -1v-6l.007 -.117l.008 -.056l.017 -.078l.012 -.036l.014 -.05l2.014 -5.034a1 1 0 0 1 .928 -.629zm-7 11a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m10 0a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m-6 -9h-5.324l-1.2 3h6.524zm2.52 0h-.52v3h2.92z" />
+  </g>
+    <text x="180" y="272" font-size="24" font-weight="bold" fill="#E11D48">1. 交通拥堵</text>
+    <text x="180" y="308" font-size="18" fill="#64748B">城市道路超负荷运转，出行与物流效率受阻</text>
+
+    <rect x="84" y="354" width="508" height="110" rx="14" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <circle cx="134" cy="409" r="28" fill="#FFF5F5"/>
+    <!-- icon: tabler-filled/home -->
+  <g transform="translate(116, 391) scale(1.5)" fill="#E11D48">
+    <path d="M12.707 2.293l9 9c.63 .63 .184 1.707 -.707 1.707h-1v6a3 3 0 0 1 -3 3h-1v-7a3 3 0 0 0 -2.824 -2.995l-.176 -.005h-2a3 3 0 0 0 -3 3v7h-1a3 3 0 0 1 -3 -3v-6h-1c-.89 0 -1.337 -1.077 -.707 -1.707l9 -9a1 1 0 0 1 1.414 0m.293 11.707a1 1 0 0 1 1 1v7h-4v-7a1 1 0 0 1 .883 -.993l.117 -.007z" />
+  </g>
+    <text x="180" y="400" font-size="24" font-weight="bold" fill="#E11D48">2. 住房紧张</text>
+    <text x="180" y="436" font-size="18" fill="#64748B">居住空间拥挤、房价承压，基础设施资源吃紧</text>
+
+    <rect x="84" y="482" width="508" height="110" rx="14" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <circle cx="134" cy="537" r="28" fill="#FFF5F5"/>
+    <!-- icon: tabler-filled/briefcase -->
+  <g transform="translate(116, 519) scale(1.5)" fill="#E11D48">
+    <path d="M22 13.478v4.522a3 3 0 0 1 -3 3h-14a3 3 0 0 1 -3 -3v-4.522l.553 .277a20.999 20.999 0 0 0 18.897 -.002l.55 -.275zm-8 -11.478a3 3 0 0 1 3 3v1h2a3 3 0 0 1 3 3v2.242l-1.447 .724a19.002 19.002 0 0 1 -16.726 .186l-.647 -.32l-1.18 -.59v-2.242a3 3 0 0 1 3 -3h2v-1a3 3 0 0 1 3 -3h4zm-2 8a1 1 0 0 0 -1 1a1 1 0 1 0 2 .01c0 -.562 -.448 -1.01 -1 -1.01zm2 -6h-4a1 1 0 0 0 -1 1v1h6v-1a1 1 0 0 0 -1 -1z" />
+  </g>
+    <text x="180" y="528" font-size="24" font-weight="bold" fill="#E11D48">3. 就业压力大</text>
+    <text x="180" y="564" font-size="18" fill="#64748B">新增劳动力远超岗位供给，求职竞争激烈</text>
+  </g>
+
+  <g id="p19-too-slow" data-pptx-bounds="660 140 564 486">
+    <rect x="660" y="140" width="564" height="486" rx="20" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2.5"/>
+    <rect x="660" y="140" width="564" height="60" rx="20" fill="#1E3A8A"/>
+    <!-- icon: tabler-filled/alert-triangle -->
+  <g transform="translate(686, 154) scale(1.33333)" fill="#FFFFFF">
+    <path d="M12 1.67c.955 0 1.845 .467 2.39 1.247l.105 .16l8.114 13.548a2.914 2.914 0 0 1 -2.307 4.363l-.195 .008h-16.225a2.914 2.914 0 0 1 -2.582 -4.2l.099 -.185l8.11 -13.538a2.914 2.914 0 0 1 2.491 -1.403zm.01 13.33l-.127 .007a1 1 0 0 0 0 1.986l.117 .007l.127 -.007a1 1 0 0 0 0 -1.986l-.117 -.007zm-.01 -7a1 1 0 0 0 -.993 .883l-.007 .117v4l.007 .117a1 1 0 0 0 1.986 0l.007 -.117v-4l-.007 -.117a1 1 0 0 0 -.993 -.883z" />
+  </g>
+    <text x="730" y="180" font-size="26" font-weight="bold" fill="#FFFFFF">人口增长过慢 · 带来的问题</text>
+
+    <rect x="688" y="220" width="508" height="84" rx="12" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+    <!-- icon: tabler-filled/user -->
+  <g transform="translate(712, 244) scale(1.41667)" fill="#1E3A8A">
+    <path d="M12 2a5 5 0 1 1 -5 5l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14 14a5 5 0 0 1 5 5v1a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2v-1a5 5 0 0 1 5 -5h4z" />
+  </g>
+    <text x="762" y="256" font-size="22" font-weight="bold" fill="#1E3A8A">1. 人口老龄化</text>
+    <text x="762" y="286" font-size="17" fill="#64748B">老年人口比例不断攀升，青壮年劳动力短缺</text>
+
+    <rect x="688" y="318" width="508" height="84" rx="12" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+    <!-- icon: tabler-filled/clock -->
+  <g transform="translate(712, 342) scale(1.41667)" fill="#1E3A8A">
+    <path d="M17 3.34a10 10 0 1 1 -14.995 8.984l-.005 -.324l.005 -.324a10 10 0 0 1 14.995 -8.336zm-5 2.66a1 1 0 0 0 -.993 .883l-.007 .117v5l.009 .131a1 1 0 0 0 .197 .477l.087 .1l3 3l.094 .082a1 1 0 0 0 1.226 0l.094 -.083l.083 -.094a1 1 0 0 0 0 -1.226l-.083 -.094l-2.707 -2.708v-4.585l-.007 -.117a1 1 0 0 0 -.993 -.883z" />
+  </g>
+    <text x="762" y="354" font-size="22" font-weight="bold" fill="#1E3A8A">2. 消费活力下滑</text>
+    <text x="762" y="384" font-size="17" fill="#64748B">年轻消费人群萎缩，社会整体市场需求趋缓</text>
+
+    <rect x="688" y="416" width="508" height="84" rx="12" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+    <!-- icon: tabler-filled/flag -->
+  <g transform="translate(712, 440) scale(1.41667)" fill="#1E3A8A">
+    <path d="M4 5a1 1 0 0 1 .3 -.714a6 6 0 0 1 8.213 -.176l.351 .328a4 4 0 0 0 5.272 0l.249 -.227c.61 -.483 1.527 -.097 1.61 .676l.005 .113v9a1 1 0 0 1 -.3 .714a6 6 0 0 1 -8.213 .176l-.351 -.328a4 4 0 0 0 -5.136 -.114v6.552a1 1 0 0 1 -1.993 .117l-.007 -.117v-16z" />
+  </g>
+    <text x="762" y="452" font-size="22" font-weight="bold" fill="#1E3A8A">3. 国防兵源不足</text>
+    <text x="762" y="482" font-size="17" fill="#64748B">适龄青年数量减少，影响国家安全与国防建设</text>
+
+    <rect x="688" y="514" width="508" height="84" rx="12" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+    <!-- icon: tabler-filled/heart -->
+  <g transform="translate(712, 538) scale(1.41667)" fill="#1E3A8A">
+    <path d="M6.979 3.074a6 6 0 0 1 4.988 1.425l.037 .033l.034 -.03a6 6 0 0 1 4.733 -1.44l.246 .036a6 6 0 0 1 3.364 10.008l-.18 .185l-.048 .041l-7.45 7.379a1 1 0 0 1 -1.313 .082l-.094 -.082l-7.493 -7.422a6 6 0 0 1 3.176 -10.215z" />
+  </g>
+    <text x="762" y="550" font-size="22" font-weight="bold" fill="#1E3A8A">4. 社会养老负担加重</text>
+    <text x="762" y="580" font-size="17" fill="#64748B">医疗护理与养老金支出剧增，社会赡养压力沉重</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 PPT18 · 人口增长过快与增长过慢对社会经济各方面的影响</text>
+    <text x="1224" y="674" text-anchor="end">P19 / 22</text>
+  </g>
+</svg>

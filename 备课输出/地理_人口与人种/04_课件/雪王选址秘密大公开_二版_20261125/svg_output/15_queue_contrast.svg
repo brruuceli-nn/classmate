@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#1E3A8A"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p15-header" data-pptx-bounds="56 28 1168 96">
+    <rect x="56" y="28" width="268" height="30" rx="15" fill="#FFF5F5" stroke="#FECDD3" stroke-width="1"/>
+    <text x="190" y="49" font-size="16" font-weight="bold" fill="#E11D48" text-anchor="middle">环节三 · 人口自然增长率导入</text>
+    <text x="56" y="96" font-size="36" font-weight="bold" fill="#1E3A8A">奇怪的反差：同样位于人口稠密区，门店为何冷热悬殊？</text>
+  </g>
+
+  <g id="p15-hot-store" data-pptx-bounds="56 140 558 392">
+    <rect x="56" y="140" width="558" height="392" rx="20" fill="#FFF5F5" stroke="#E11D48" stroke-width="2.5"/>
+    <image href="../images/queue_young_busy.png" x="78" y="162" width="514" height="250" preserveAspectRatio="xMidYMid slice"/>
+
+    <rect x="78" y="428" width="144" height="34" rx="17" fill="#E11D48"/>
+    <text x="150" y="451" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区城市 A</text>
+    <text x="238" y="452" font-size="24" font-weight="bold" fill="#E11D48">门口年轻人排长队！</text>
+    <text x="78" y="498" font-size="20" fill="#1E293B">青春面孔多、消费需求旺，门店越开越多</text>
+  </g>
+
+  <g id="p15-cold-store" data-pptx-bounds="666 140 558 392">
+    <rect x="666" y="140" width="558" height="392" rx="20" fill="#F8FAFC" stroke="#64748B" stroke-width="2.5"/>
+    <image href="../images/queue_elderly_quiet.jpg" x="688" y="162" width="514" height="250" preserveAspectRatio="xMidYMid slice"/>
+
+    <rect x="688" y="428" width="144" height="34" rx="17" fill="#64748B"/>
+    <text x="760" y="451" font-size="17" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区城市 B</text>
+    <text x="848" y="452" font-size="24" font-weight="bold" fill="#1E3A8A">门口冷清无人排队……</text>
+    <text x="688" y="498" font-size="20" fill="#1E293B">来往行人大多是中老年人，全城只开了几家店</text>
+  </g>
+
+  <g id="p15-prompt-bar" data-pptx-bounds="56 550 1168 78">
+    <rect x="56" y="550" width="1168" height="78" rx="16" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2"/>
+    <use data-icon="tabler-filled/bulb" x="84" y="572" width="34" height="34" fill="#D97706"/>
+    <text x="132" y="598" font-size="24" font-weight="bold" fill="#1E3A8A">督导提醒：一般买奶茶的都是什么年龄段的人群？这引出了新指标 —— <tspan fill="#E11D48">人口自然增长率</tspan>！</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 PPT14 · 同在人口稠密区的蜜雪排队冷热对比图</text>
+    <text x="1224" y="674" text-anchor="end">P15 / 22</text>
+  </g>
+</svg>

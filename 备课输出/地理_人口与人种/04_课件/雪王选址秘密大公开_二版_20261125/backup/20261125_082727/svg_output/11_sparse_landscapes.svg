@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#D97706"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A"/>
+
+  <g id="p11-header" data-pptx-bounds="56 28 1168 96">
+    <rect x="56" y="28" width="268" height="30" rx="15" fill="#FEF3C7"/>
+    <text x="190" y="49" font-size="16" font-weight="bold" fill="#D97706" text-anchor="middle">环节二 · 稀疏区自然景观轮播</text>
+    <text x="56" y="96" font-size="36" font-weight="bold" fill="#1E3A8A">走进四大人口稀疏区：极端环境 · 人烟稀少</text>
+  </g>
+
+  <g id="sparse-card-1" data-pptx-bounds="56 142 276 482">
+    <rect x="56" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#FDE68A" stroke-width="2"/>
+    <rect x="72" y="158" width="244" height="252" rx="12" fill="#FEF3C7" stroke="#D97706" stroke-width="1.5" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/sun" x="170" y="236" width="48" height="48" fill="#D97706"/>
+    <text x="194" y="318" font-size="16" fill="#D97706" font-weight="bold" text-anchor="middle">【稀疏景观 ① 占位】</text>
+    <text x="194" y="346" font-size="14" fill="#64748B" text-anchor="middle">撒哈拉漫天黄沙与干涸沙丘</text>
+
+    <rect x="72" y="426" width="96" height="30" rx="15" fill="#D97706"/>
+    <text x="120" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稀疏区 ①</text>
+    <text x="72" y="492" font-size="24" font-weight="bold" fill="#1E293B">沙漠地区</text>
+    <text x="72" y="532" font-size="18" fill="#1E293B">如非洲撒哈拉沙漠，
+      <tspan x="72" dy="28">终年炎热少雨、水源匮乏，</tspan>
+      <tspan x="72" dy="28" fill="#D97706" font-weight="bold">自然条件：极端干旱</tspan>
+    </text>
+  </g>
+
+  <g id="sparse-card-2" data-pptx-bounds="353 142 276 482">
+    <rect x="353" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#86EFAC" stroke-width="2"/>
+    <rect x="369" y="158" width="244" height="252" rx="12" fill="#F0FDF4" stroke="#15803D" stroke-width="1.5" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/droplet" x="467" y="236" width="48" height="48" fill="#15803D"/>
+    <text x="491" y="318" font-size="16" fill="#15803D" font-weight="bold" text-anchor="middle">【稀疏景观 ② 占位】</text>
+    <text x="491" y="346" font-size="14" fill="#64748B" text-anchor="middle">亚马孙密林与沼泽河网</text>
+
+    <rect x="369" y="426" width="96" height="30" rx="15" fill="#15803D"/>
+    <text x="417" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稀疏区 ②</text>
+    <text x="369" y="492" font-size="24" font-weight="bold" fill="#1E293B">热带雨林地区</text>
+    <text x="369" y="532" font-size="18" fill="#1E293B">如南美亚马孙平原，
+      <tspan x="369" dy="28">虽是平原但丛林密布闷热，</tspan>
+      <tspan x="369" dy="28" fill="#15803D" font-weight="bold">自然条件：过于湿热</tspan>
+    </text>
+  </g>
+
+  <g id="sparse-card-3" data-pptx-bounds="650 142 276 482">
+    <rect x="650" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <rect x="666" y="158" width="244" height="252" rx="12" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="1.5" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/sparkles" x="764" y="236" width="48" height="48" fill="#1E3A8A"/>
+    <text x="788" y="318" font-size="16" fill="#1E3A8A" font-weight="bold" text-anchor="middle">【稀疏景观 ③ 占位】</text>
+    <text x="788" y="346" font-size="14" fill="#64748B" text-anchor="middle">北冰洋沿岸与格陵兰冰原</text>
+
+    <rect x="666" y="426" width="96" height="30" rx="15" fill="#1E3A8A"/>
+    <text x="714" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稀疏区 ③</text>
+    <text x="666" y="492" font-size="24" font-weight="bold" fill="#1E293B">高纬度地区</text>
+    <text x="666" y="532" font-size="18" fill="#1E293B">如亚洲和北美洲北冰洋沿岸，
+      <tspan x="666" dy="28">冰雪覆盖、生长期极短，</tspan>
+      <tspan x="666" dy="28" fill="#1E3A8A" font-weight="bold">自然条件：终年严寒</tspan>
+    </text>
+  </g>
+
+  <g id="sparse-card-4" data-pptx-bounds="948 142 276 482">
+    <rect x="948" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#FECDD3" stroke-width="2"/>
+    <rect x="964" y="158" width="244" height="252" rx="12" fill="#FFF5F5" stroke="#E11D48" stroke-width="1.5" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/mountain" x="1062" y="236" width="48" height="48" fill="#E11D48"/>
+    <text x="1086" y="318" font-size="16" fill="#E11D48" font-weight="bold" text-anchor="middle">【稀疏景观 ④ 占位】</text>
+    <text x="1086" y="346" font-size="14" fill="#64748B" text-anchor="middle">青藏高原雪山与高寒荒原</text>
+
+    <rect x="964" y="426" width="96" height="30" rx="15" fill="#E11D48"/>
+    <text x="1012" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稀疏区 ④</text>
+    <text x="964" y="492" font-size="24" font-weight="bold" fill="#1E293B">高原山区</text>
+    <text x="964" y="532" font-size="18" fill="#1E293B">如青藏高原等高海拔地区，
+      <tspan x="964" dy="28">交通不便、空气稀薄寒冷，</tspan>
+      <tspan x="964" dy="28" fill="#E11D48" font-weight="bold">自然条件：地势高峻</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 Ppt10 · 展示人口稀疏区自然景观（配置从左至右依次推进轮播动画）</text>
+    <text x="1224" y="674" text-anchor="end">P11 / 22</text>
+  </g>
+</svg>

@@ -1,0 +1,501 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "early",
+  "target": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "c5cf06aeca7b2a77ba7059c54fc51bdbdec331bb6ae6fd802ac7596ffb2540b2",
+    "file_count": 5,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "444e77e457ba11360f041ad370069018a446ba5db76d8ffc4b64e4aaef86ba03"
+      },
+      {
+        "file": "02_tea_history_ribbon.svg",
+        "sha256": "88a2267a5e6f38116df385f64a6ce2a14ea51936f8ba03bf6b1008929d49966a"
+      },
+      {
+        "file": "03_snowking_mission.svg",
+        "sha256": "c2af292739b188b614fd021f9c158d016806588a776e5d4c852370888c6ca2dd"
+      },
+      {
+        "file": "04_world_80_billion.svg",
+        "sha256": "7e0627d079bb42726171587017b5dc5b2954296e657162a022ca580d47120933"
+      },
+      {
+        "file": "05_calc_billion_table.svg",
+        "sha256": "87104f340bcb1027e9cebd74cf34ec2722df02e9301785d17f93fae58b1342bd"
+      }
+    ]
+  },
+  "summary": {
+    "total": 5,
+    "passed": 5,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#86EFAC": [
+        "02_tea_history_ribbon.svg",
+        "05_calc_billion_table.svg"
+      ],
+      "#BBF7D0": [
+        "02_tea_history_ribbon.svg"
+      ],
+      "#BFDBFE": [
+        "02_tea_history_ribbon.svg"
+      ],
+      "#DCFCE7": [
+        "02_tea_history_ribbon.svg"
+      ],
+      "#EFF6FF": [
+        "02_tea_history_ribbon.svg",
+        "03_snowking_mission.svg",
+        "04_world_80_billion.svg",
+        "05_calc_billion_table.svg"
+      ],
+      "#F0FDF4": [
+        "01_cover.svg",
+        "02_tea_history_ribbon.svg",
+        "03_snowking_mission.svg",
+        "05_calc_billion_table.svg"
+      ],
+      "#F8FAFC": [
+        "05_calc_billion_table.svg"
+      ],
+      "#FECDD3": [
+        "01_cover.svg",
+        "02_tea_history_ribbon.svg",
+        "03_snowking_mission.svg",
+        "05_calc_billion_table.svg"
+      ],
+      "#FEF3C7": [
+        "03_snowking_mission.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 5,
+    "totals": {
+      "text_elements": 79,
+      "image_placements": 1,
+      "icons": 11,
+      "svg_geometry_elements": 83,
+      "preset_shapes": 2,
+      "page_frame_elements": 15,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 8,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 1,
+      "icons": 4,
+      "presets": 2,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": 15,
+    "geometry_elements": {
+      "circle": 10,
+      "ellipse": 0,
+      "line": 5,
+      "path": 4,
+      "polygon": 1,
+      "polyline": 0,
+      "rect": 63
+    },
+    "preset_names": {
+      "wave": 1,
+      "wedgeRoundRectCallout": 1
+    },
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.1385,
+      0.1385
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 4,
+          "effects": {
+            "inline_emphasis_runs": 2,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 10,
+              "circle": 2,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Trebuchet MS"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 5,
+        "contextual_values": {
+          "colors": [
+            "#F0FDF4",
+            "#FECDD3"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "444e77e457ba11360f041ad370069018a446ba5db76d8ffc4b64e4aaef86ba03"
+    },
+    {
+      "file": "02_tea_history_ribbon.svg",
+      "path": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output/02_tea_history_ribbon.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 1,
+          "effects": {
+            "inline_emphasis_runs": 6,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 11,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 3
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "wave": 1
+            },
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Trebuchet MS"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 10,
+        "contextual_values": {
+          "colors": [
+            "#86EFAC",
+            "#BBF7D0",
+            "#BFDBFE",
+            "#DCFCE7",
+            "#EFF6FF",
+            "#F0FDF4",
+            "#FECDD3"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "88a2267a5e6f38116df385f64a6ce2a14ea51936f8ba03bf6b1008929d49966a"
+    },
+    {
+      "file": "03_snowking_mission.svg",
+      "path": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output/03_snowking_mission.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 12,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 1,
+              "path": 1
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "wedgeRoundRectCallout": 1
+            },
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Trebuchet MS"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 3,
+        "contextual_values": {
+          "colors": [
+            "#EFF6FF",
+            "#F0FDF4",
+            "#FECDD3",
+            "#FEF3C7"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "c2af292739b188b614fd021f9c158d016806588a776e5d4c852370888c6ca2dd"
+    },
+    {
+      "file": "04_world_80_billion.svg",
+      "path": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output/04_world_80_billion.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 3,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 9,
+              "circle": 1,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Trebuchet MS"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#EFF6FF"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "7e0627d079bb42726171587017b5dc5b2954296e657162a022ca580d47120933"
+    },
+    {
+      "file": "05_calc_billion_table.svg",
+      "path": "/home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output/05_calc_billion_table.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 21,
+          "images": {
+            "placements": 1,
+            "files": [
+              "image_002.png"
+            ],
+            "max_frame_share": 0.1385
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 21,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 3,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Trebuchet MS"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 0,
+        "contextual_values": {
+          "colors": [
+            "#86EFAC",
+            "#EFF6FF",
+            "#F0FDF4",
+            "#F8FAFC",
+            "#FECDD3"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "87104f340bcb1027e9cebd74cf34ec2722df02e9301785d17f93fae58b1342bd"
+    }
+  ]
+}

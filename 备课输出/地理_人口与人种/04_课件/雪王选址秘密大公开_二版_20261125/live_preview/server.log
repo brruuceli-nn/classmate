@@ -1,0 +1,10 @@
+[08:06:42] [INFO] svg_editor: running at http://127.0.0.1:6060 (live preview (auto-startup))
+[08:06:42] [INFO] svg_editor: project: /home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125
+[08:06:42] [INFO] svg_editor: svg_output: /home/antigravity/brruuceli-nn/classmate/备课输出/地理_人口与人种/04_课件/雪王选址秘密大公开_二版_20261125/svg_output (0 slides)
+[08:06:42] [INFO] svg_editor: idle timeout: 7200s (0 = disabled)
+ * Serving Flask app 'server'
+ * Debug mode: off
+[08:06:42] [INFO] svg_editor: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6060
+[08:06:42] [INFO] svg_editor: [33mPress CTRL+C to quit[0m
+[08:06:43] [INFO] svg_editor: 127.0.0.1 - - [25/Nov/2026 08:06:43] "GET /api/health HTTP/1.1" 200 -

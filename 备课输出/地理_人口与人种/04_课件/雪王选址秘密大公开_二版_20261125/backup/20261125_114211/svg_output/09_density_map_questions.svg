@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#1E3A8A"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p09-header" data-pptx-bounds="56 28 1168 92">
+    <rect x="56" y="28" width="244" height="30" rx="15" fill="#EFF6FF"/>
+    <text x="178" y="49" font-size="16" font-weight="bold" fill="#1E3A8A" text-anchor="middle">环节二 · 读图破案双问</text>
+    <text x="56" y="96" font-size="36" font-weight="bold" fill="#1E3A8A">读《世界人口密度分布图》：找位置 · 析原因</text>
+  </g>
+
+  <g id="p09-map-frame" data-pptx-bounds="56 134 684 494">
+    <rect x="56" y="134" width="684" height="494" rx="18" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="2.5" stroke-dasharray="8,4"/>
+    <circle cx="398" cy="272" r="48" fill="#EFF6FF"/>
+    <use data-icon="tabler-filled/globe" x="366" y="240" width="64" height="64" fill="#1E3A8A"/>
+    <text x="398" y="356" font-size="26" font-weight="bold" fill="#1E3A8A" text-anchor="middle">【世界人口密度分布图 · 标准底图框】</text>
+    <text x="398" y="398" font-size="18" fill="#64748B" text-anchor="middle">请在此框直接置入 2024 人教版七上教材原图
+      <tspan x="398" dy="30">或自然资源部标准《世界人口分布图》</tspan>
+      <tspan x="398" dy="30">（严守国家版图红线 · 对应 map_world_pop_density.png）</tspan>
+    </text>
+
+    <rect x="96" y="492" width="604" height="104" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="112" y="528" font-size="18" font-weight="bold" fill="#1E293B">读图三步提示：</text>
+    <text x="112" y="560" font-size="16" fill="#64748B">① 看图例（人/km²） → ② 找红褐色密集区 → ③ 找浅黄色空白区</text>
+  </g>
+
+  <g id="p09-q1-card" data-pptx-bounds="764 134 460 236">
+    <rect x="764" y="134" width="460" height="236" rx="18" fill="#FFF5F5" stroke="#E11D48" stroke-width="2"/>
+    <rect x="788" y="156" width="124" height="34" rx="17" fill="#E11D48"/>
+    <text x="850" y="179" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">探究问题 1</text>
+    <text x="788" y="228" font-size="24" font-weight="bold" fill="#1E293B">找出人口比较<tspan fill="#E11D48">稠密</tspan>的 4 个地区，
+      <tspan x="788" dy="36">并分析原因！</tspan>
+    </text>
+
+    <rect x="788" y="290" width="126" height="48" rx="12" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <text x="851" y="321" font-size="18" font-weight="bold" fill="#E11D48" text-anchor="middle">提示：地形</text>
+
+    <rect x="930" y="290" width="126" height="48" rx="12" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <text x="993" y="321" font-size="18" font-weight="bold" fill="#1E3A8A" text-anchor="middle">＋ 海陆位置</text>
+
+    <rect x="1072" y="290" width="126" height="48" rx="12" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5"/>
+    <text x="1135" y="321" font-size="18" font-weight="bold" fill="#15803D" text-anchor="middle">＋ 气候条件</text>
+  </g>
+
+  <g id="p09-q2-card" data-pptx-bounds="764 392 460 236">
+    <rect x="764" y="392" width="460" height="236" rx="18" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2"/>
+    <rect x="788" y="414" width="124" height="34" rx="17" fill="#1E3A8A"/>
+    <text x="850" y="437" font-size="18" font-weight="bold" fill="#FFFFFF" text-anchor="middle">探究问题 2</text>
+    <text x="788" y="486" font-size="24" font-weight="bold" fill="#1E293B">找出人口<tspan fill="#1E3A8A">稀疏</tspan>的 4 类地区，
+      <tspan x="788" dy="36">并分析原因！</tspan>
+    </text>
+    <rect x="788" y="546" width="412" height="54" rx="12" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5"/>
+    <text x="994" y="580" font-size="18" fill="#1E3A8A" font-weight="bold" text-anchor="middle">思考：是哪些极端的自然条件限制了定居？</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 ppt08 · 世界人口密度分布图与稠密/稀疏双问剖析</text>
+    <text x="1224" y="674" text-anchor="end">P09 / 22</text>
+  </g>
+</svg>

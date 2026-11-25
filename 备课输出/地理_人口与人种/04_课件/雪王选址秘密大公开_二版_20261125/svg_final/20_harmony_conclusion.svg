@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="section">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="16" height="720" fill="#15803D"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="16" y="0" width="1264" height="8" fill="#1E3A8A"/>
+
+  <g id="p20-center-hero" data-pptx-bounds="96 86 1088 380">
+    <circle cx="640" cy="158" r="54" fill="#F0FDF4" stroke="#86EFAC" stroke-width="2.5"/>
+    <!-- icon: tabler-filled/scale -->
+  <g transform="translate(606, 124) scale(2.83333)" fill="#15803D">
+    <path d="M12 2a1 1 0 0 1 1 1v1.152l5.159 .86a.98 .98 0 0 1 .636 .38l.041 .059l.058 .102l3.024 6.05l.035 .094l.025 .096l.016 .1l.005 .12l-.003 .061a3.996 3.996 0 0 1 -3.996 3.926a4 4 0 0 1 -4 -4a1 1 0 0 1 .106 -.447l2.393 -4.79l-3.499 -.583v12.82h4a1 1 0 0 1 0 2h-10a1 1 0 0 1 0 -2h4v-12.82l-3.5 .583l2.418 4.84l.035 .094l.025 .096l.016 .1l.005 .12l-.003 .061a3.996 3.996 0 0 1 -3.996 3.926a4 4 0 0 1 -4 -4a1 1 0 0 1 .106 -.447l3.034 -6.065l.039 -.061l.025 -.034a.98 .98 0 0 1 .636 -.38l5.16 -.862v-1.151a1 1 0 0 1 1 -1" />
+  </g>
+
+    <text x="640" y="256" font-size="24" font-weight="bold" fill="#64748B" text-anchor="middle">那么，到底人口怎样增长才是最理想的呢？</text>
+
+    <rect x="136" y="288" width="1008" height="148" rx="28" fill="#1E3A8A"/>
+    <text x="640" y="382" font-size="56" font-weight="bold" fill="#FFFFFF" text-anchor="middle">人口增长要与<tspan fill="#86EFAC">发展</tspan>相协调</text>
+  </g>
+
+  <g id="p20-two-pillars" data-pptx-bounds="136 488 1008 128">
+    <rect x="136" y="488" width="484" height="128" rx="18" fill="#F0FDF4" stroke="#86EFAC" stroke-width="2"/>
+    <!-- icon: tabler-filled/globe -->
+  <g transform="translate(168, 532) scale(1.66667)" fill="#15803D">
+    <path d="M11 4a5 5 0 1 1 -4.995 5.217l-.005 -.217l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14.133 1.502a1 1 0 0 1 1.365 -.369a9.015 9.015 0 1 1 -10.404 14.622a1 1 0 1 1 1.312 -1.51a7.015 7.015 0 1 0 8.096 -11.378a1 1 0 0 1 -.369 -1.365z" />
+    <path d="M11 16a1 1 0 0 1 .993 .883l.007 .117v4a1 1 0 0 1 -1.993 .117l-.007 -.117v-4a1 1 0 0 1 1 -1z" />
+    <path d="M15 20a1 1 0 0 1 .117 1.993l-.117 .007h-8a1 1 0 0 1 -.117 -1.993l.117 -.007h8z" />
+  </g>
+    <text x="226" y="544" font-size="24" font-weight="bold" fill="#15803D">与资源、环境相协调</text>
+    <text x="226" y="582" font-size="18" fill="#1E293B">不突破自然生态与资源承载底线</text>
+
+    <rect x="660" y="488" width="484" height="128" rx="18" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <!-- icon: tabler-filled/star -->
+  <g transform="translate(692, 532) scale(1.66667)" fill="#E11D48">
+    <path d="M8.243 7.34l-6.38 .925l-.113 .023a1 1 0 0 0 -.44 1.684l4.622 4.499l-1.09 6.355l-.013 .11a1 1 0 0 0 1.464 .944l5.706 -3l5.693 3l.1 .046a1 1 0 0 0 1.352 -1.1l-1.091 -6.355l4.624 -4.5l.078 -.085a1 1 0 0 0 -.633 -1.62l-6.38 -.926l-2.852 -5.78a1 1 0 0 0 -1.794 0l-2.853 5.78z" />
+  </g>
+    <text x="744" y="544" font-size="24" font-weight="bold" fill="#E11D48">与社会、经济发展相适应</text>
+    <text x="744" y="582" font-size="18" fill="#1E293B">过快则适度调控，过慢则鼓励生育完善保障</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="64 646 1160 36" fill="#64748B" font-size="14">
+    <line x1="64" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="64" y="674">对应要求 PPT19 · 核心人地协调观结论：人口增长要与发展相协调</text>
+    <text x="1224" y="674" text-anchor="end">P20 / 22</text>
+  </g>
+</svg>

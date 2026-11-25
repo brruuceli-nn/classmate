@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#15803D"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p10-header" data-pptx-bounds="56 28 1168 96">
+    <rect x="56" y="28" width="268" height="30" rx="15" fill="#DCFCE7"/>
+    <text x="190" y="49" font-size="16" font-weight="bold" fill="#15803D" text-anchor="middle">环节二 · 稠密区自然景观轮播</text>
+    <text x="56" y="96" font-size="36" font-weight="bold" fill="#1E3A8A">走进四大人口稠密区：沃野千里 · 温暖湿润</text>
+  </g>
+
+  <g id="dense-card-1" data-pptx-bounds="56 142 276 482">
+    <rect x="56" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#86EFAC" stroke-width="2"/>
+    <image href="../images/dense_01_east_asia.jpg" x="72" y="160" width="244" height="244" preserveAspectRatio="xMidYMid meet"/>
+
+    <rect x="72" y="426" width="96" height="30" rx="15" fill="#15803D"/>
+    <text x="120" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区 ①</text>
+    <text x="72" y="492" font-size="24" font-weight="bold" fill="#1E3A8A">亚洲东部</text>
+    <text x="72" y="532" font-size="18" fill="#1E293B">中低纬近海冲积平原，
+      <tspan x="72" dy="28">季风气候雨热同期，</tspan>
+      <tspan x="72" dy="28" fill="#15803D" font-weight="bold">农业开发历史悠久</tspan>
+    </text>
+  </g>
+
+  <g id="dense-card-2" data-pptx-bounds="353 142 276 482">
+    <rect x="353" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#86EFAC" stroke-width="2"/>
+    <image href="../images/dense_02_south_asia.jpg" x="369" y="160" width="244" height="244" preserveAspectRatio="xMidYMid meet"/>
+
+    <rect x="369" y="426" width="96" height="30" rx="15" fill="#15803D"/>
+    <text x="417" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区 ②</text>
+    <text x="369" y="492" font-size="24" font-weight="bold" fill="#1E3A8A">亚洲南部</text>
+    <text x="369" y="532" font-size="18" fill="#1E293B">恒河—印度河平坦平原，
+      <tspan x="369" dy="28">热带季风气候水热充足，</tspan>
+      <tspan x="369" dy="28" fill="#15803D" font-weight="bold">古文明发祥、人口密集</tspan>
+    </text>
+  </g>
+
+  <g id="dense-card-3" data-pptx-bounds="650 142 276 482">
+    <rect x="650" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <image href="../images/dense_03_west_europe.jpg" x="666" y="160" width="244" height="244" preserveAspectRatio="xMidYMid meet"/>
+
+    <rect x="666" y="426" width="96" height="30" rx="15" fill="#1E3A8A"/>
+    <text x="714" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区 ③</text>
+    <text x="666" y="492" font-size="24" font-weight="bold" fill="#1E3A8A">欧洲西部</text>
+    <text x="666" y="532" font-size="18" fill="#1E293B">地形以平原为主，
+      <tspan x="666" dy="28">温带海洋性气候温和湿润，</tspan>
+      <tspan x="666" dy="28" fill="#1E3A8A" font-weight="bold">工业发展早、城镇稠密</tspan>
+    </text>
+  </g>
+
+  <g id="dense-card-4" data-pptx-bounds="948 142 276 482">
+    <rect x="948" y="142" width="276" height="482" rx="18" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <image href="../images/dense_04_east_na.jpg" x="964" y="160" width="244" height="244" preserveAspectRatio="xMidYMid meet"/>
+
+    <rect x="964" y="426" width="96" height="30" rx="15" fill="#1E3A8A"/>
+    <text x="1012" y="447" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">稠密区 ④</text>
+    <text x="964" y="492" font-size="24" font-weight="bold" fill="#1E3A8A">北美洲东部</text>
+    <text x="964" y="532" font-size="18" fill="#1E293B">中低纬大西洋近海平原，
+      <tspan x="964" dy="28">气候温和、航运便利，</tspan>
+      <tspan x="964" dy="28" fill="#1E3A8A" font-weight="bold">工商业发达、城市密集</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 ppt09 · 展示人口稠密区自然景观（配置从左至右依次推进轮播动画）</text>
+    <text x="1224" y="674" text-anchor="end">P10 / 22</text>
+  </g>
+</svg>

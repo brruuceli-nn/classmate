@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB" />
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#E11D48" />
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A" />
+
+  <g id="p21-header" data-pptx-bounds="56 24 1168 102">
+    <rect x="56" y="24" width="236" height="30" rx="15" fill="#E11D48" />
+    <text x="174" y="45" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">小组活动四 · 终极选址实战</text>
+    <text x="56" y="90" font-size="36" font-weight="bold" fill="#1E3A8A">猜一猜、圈一圈：雪王在全球开店会选址在哪里？</text>
+    <text x="56" y="118" font-size="18" fill="#64748B">请在《世界人口分布图》上圈画预测区域，并请同学上讲台对比，吻合度最高赢取『雪王认可奖』！</text>
+  </g>
+
+  <g id="p21-pop-map" data-pptx-bounds="56 140 564 392">
+    <rect x="56" y="140" width="564" height="392" rx="18" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2.5" />
+    <rect x="56" y="140" width="564" height="52" rx="18" fill="#1E3A8A" />
+    
+  <g transform="translate(80, 152) scale(1.16667)" fill="#FFFFFF">
+    <path d="M11 4a5 5 0 1 1 -4.995 5.217l-.005 -.217l.005 -.217a5 5 0 0 1 4.995 -4.783z" />
+    <path d="M14.133 1.502a1 1 0 0 1 1.365 -.369a9.015 9.015 0 1 1 -10.404 14.622a1 1 0 1 1 1.312 -1.51a7.015 7.015 0 1 0 8.096 -11.378a1 1 0 0 1 -.369 -1.365z" />
+    <path d="M11 16a1 1 0 0 1 .993 .883l.007 .117v4a1 1 0 0 1 -1.993 .117l-.007 -.117v-4a1 1 0 0 1 1 -1z" />
+    <path d="M15 20a1 1 0 0 1 .117 1.993l-.117 .007h-8a1 1 0 0 1 -.117 -1.993l.117 -.007h8z" />
+  </g>
+    <text x="118" y="174" font-size="22" font-weight="bold" fill="#FFFFFF">图 A · 世界人口分布图（学生圈画区）</text>
+
+    <rect x="80" y="210" width="516" height="298" rx="12" fill="#FFFFFF" stroke="#1E3A8A" stroke-width="2" stroke-dasharray="8,4" />
+    
+  <g transform="translate(314, 290) scale(2)" fill="#1E3A8A">
+    <path d="M17 3.34a10 10 0 1 1 -15 8.66l.005 -.324a10 10 0 0 1 14.995 -8.336zm-5 14.66a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m3.684 -10.949l-6 2a1 1 0 0 0 -.633 .633l-2.007 6.026l-.023 .086l-.017 .113l-.004 .068v.044l.009 .111l.012 .07l.04 .144l.045 .1l.054 .095l.064 .09l.069 .075l.084 .074l.098 .07l.1 .054l.078 .033l.105 .033l.109 .02l.043 .005l.068 .004h.044l.111 -.009l.07 -.012l.02 -.006l.019 -.002l.074 -.022l6 -2a1 1 0 0 0 .633 -.633l2 -6a1 1 0 0 0 -1.265 -1.265zm-1.265 2.529l-1.21 3.629l-3.629 1.21l1.21 -3.629l3.629 -1.21zm-9.419 1.42a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m14 0a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m-7 -7a1 1 0 1 0 0 2a1 1 0 0 0 0 -2" />
+  </g>
+    <text x="338" y="370" font-size="20" font-weight="bold" fill="#1E3A8A" text-anchor="middle">【世界人口分布图 · 标准教材原图占位】</text>
+    <text fill="#64748B" font-size="16" text-anchor="middle" x="338" y="406">请用红笔在资料包地图上圈出推荐选址热区
+      </text><text fill="#64748B" font-size="16" text-anchor="middle" x="338" y="432"><tspan>（严守国家版图规范 · map_world_pop_density.png）</tspan>
+    </text></g>
+
+  <g id="p21-mixue-map" data-pptx-bounds="660 140 564 392">
+    <rect x="660" y="140" width="564" height="392" rx="18" fill="#FFF5F5" stroke="#E11D48" stroke-width="2.5" />
+    <rect x="660" y="140" width="564" height="52" rx="18" fill="#E11D48" />
+    
+  <g transform="translate(684, 152) scale(1.16667)" fill="#FFFFFF">
+    <path d="M17 3a1 1 0 0 1 .993 .883l.007 .117v2.17a3 3 0 1 1 0 5.659v.171a6.002 6.002 0 0 1 -5 5.917v2.083h3a1 1 0 0 1 .117 1.993l-.117 .007h-8a1 1 0 0 1 -.117 -1.993l.117 -.007h3v-2.083a6.002 6.002 0 0 1 -4.996 -5.692l-.004 -.225v-.171a3 3 0 0 1 -3.996 -2.653l-.003 -.176l.005 -.176a3 3 0 0 1 3.995 -2.654l-.001 -2.17a1 1 0 0 1 1 -1h10zm-12 5a1 1 0 1 0 0 2a1 1 0 0 0 0 -2m14 0a1 1 0 1 0 0 2a1 1 0 0 0 0 -2" />
+  </g>
+    <text x="722" y="174" font-size="22" font-weight="bold" fill="#FFFFFF">图 B · 雪王全球门店分布图（揭晓对比区）</text>
+
+    <rect x="684" y="210" width="516" height="298" rx="12" fill="#FFFFFF" stroke="#E11D48" stroke-width="2" stroke-dasharray="8,4" />
+    
+  <g transform="translate(918, 276) scale(2)" fill="#E11D48">
+    <path d="M18.364 4.636a9 9 0 0 1 .203 12.519l-.203 .21l-4.243 4.242a3 3 0 0 1 -4.097 .135l-.144 -.135l-4.244 -4.243a9 9 0 0 1 12.728 -12.728zm-6.364 3.364a3 3 0 1 0 0 6a3 3 0 0 0 0 -6" />
+  </g>
+    <text x="942" y="354" font-size="20" font-weight="bold" fill="#E11D48" text-anchor="middle">【雪王全球门店分布图占位框】</text>
+    <text fill="#1E293B" font-size="16" text-anchor="middle" x="942" y="390">核心密集区：中国及东南亚（印尼/越南/马泰）
+      </text><text fill="#1E293B" font-size="16" text-anchor="middle" x="942" y="416"><tspan fill="#64748B">跨洲新拓点：澳大利亚、美国洛杉矶、巴西圣保罗等沿海大城</tspan>
+    </text></g>
+
+  <g id="p21-reminder-bar" data-pptx-bounds="56 548 1168 80">
+    <rect x="56" y="548" width="1168" height="80" rx="16" fill="#F0FDF4" stroke="#15803D" stroke-width="2" />
+    
+  <g transform="translate(84, 571) scale(1.41667)" fill="#15803D">
+    <path d="M4 11a1 1 0 0 1 .117 1.993l-.117 .007h-1a1 1 0 0 1 -.117 -1.993l.117 -.007h1z" />
+    <path d="M12 2a1 1 0 0 1 .993 .883l.007 .117v1a1 1 0 0 1 -1.993 .117l-.007 -.117v-1a1 1 0 0 1 1 -1z" />
+    <path d="M21 11a1 1 0 0 1 .117 1.993l-.117 .007h-1a1 1 0 0 1 -.117 -1.993l.117 -.007h1z" />
+    <path d="M4.893 4.893a1 1 0 0 1 1.32 -.083l.094 .083l.7 .7a1 1 0 0 1 -1.32 1.497l-.094 -.083l-.7 -.7a1 1 0 0 1 0 -1.414z" />
+    <path d="M17.693 4.893a1 1 0 0 1 1.497 1.32l-.083 .094l-.7 .7a1 1 0 0 1 -1.497 -1.32l.083 -.094l.7 -.7z" />
+    <path d="M14 18a1 1 0 0 1 1 1a3 3 0 0 1 -6 0a1 1 0 0 1 .883 -.993l.117 -.007h4z" />
+    <path d="M12 6a6 6 0 0 1 3.6 10.8a1 1 0 0 1 -.471 .192l-.129 .008h-6a1 1 0 0 1 -.6 -.2a6 6 0 0 1 3.6 -10.8z" />
+  </g>
+    <text fill="#15803D" font-size="20" font-weight="bold" x="132" y="582">督导双尺提醒：选址时，既要考虑<tspan fill="#1E3A8A">① 人口稠密程度（地形、气候、海陆位置）</tspan>，
+      </text><text fill="#15803D" font-size="20" font-weight="bold" x="132" y="612"><tspan>又要考虑<tspan fill="#E11D48">② 人口的自然增长率（正增长年轻客群多，还是负增长？）</tspan>！</tspan>
+    </text></g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="56" y="674">对应要求 PPT20 · 活动四：世界人口分布图与雪王分布图预测对比</text>
+    <text x="1224" y="674" text-anchor="end">P21 / 22</text>
+  </g>
+</svg>

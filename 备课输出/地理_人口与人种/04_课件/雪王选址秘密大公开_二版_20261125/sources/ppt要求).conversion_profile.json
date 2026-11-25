@@ -1,0 +1,34 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "doc_to_md.py",
+  "conversion_type": "docx",
+  "source": {
+    "path": "ppt要求).docx",
+    "name": "ppt要求).docx",
+    "suffix": ".docx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 912743
+  },
+  "outputs": {
+    "markdown": "ppt要求).md",
+    "asset_dir": "ppt要求)_files",
+    "image_manifest": "ppt要求)_files/image_manifest.json",
+    "image_count": 3
+  },
+  "markdown": {
+    "line_count": 124,
+    "char_count": 1607,
+    "heading_count": 0,
+    "table_count": 0,
+    "image_ref_count": 3,
+    "link_count": 0
+  },
+  "warnings": [
+    "An unrecognised element was ignored: {urn:schemas-microsoft-com:office:office}lock",
+    "An unrecognised element was ignored: v:path",
+    "An unrecognised element was ignored: v:fill",
+    "An unrecognised element was ignored: v:stroke",
+    "A v:imagedata element without a relationship ID was ignored"
+  ]
+}

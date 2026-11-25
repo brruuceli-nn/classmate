@@ -1,0 +1,17 @@
+No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
+1,cover_snowking_globe.jpg,896,1200,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,561.2,Portrait
+2,dense_01_east_asia.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,895.3,Near square
+3,dense_02_south_asia.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,969.8,Near square
+4,dense_03_west_europe.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,1012.2,Near square
+5,dense_04_east_na.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,1059.8,Near square
+6,image_001.png,934,620,1.51,1.51,1.51,native,PNG,False,1,,bitmap,True,True,34.9,Wide landscape
+7,image_002.png,269,439,0.61,0.61,0.66,native,PNG,True,1,,bitmap,True,True,94.1,Portrait
+8,image_003.png,886,412,2.15,2.15,2.15,native,PNG,False,1,,bitmap,True,True,72.5,Ultra-wide
+9,queue_elderly_quiet.jpg,1376,768,1.79,1.79,,native,JPEG,False,1,,bitmap,True,True,983.7,Wide landscape
+10,queue_young_busy.png,1376,768,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,2626.8,Wide landscape
+11,sao_paulo_diverse_queue.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,1099.5,Near square
+12,snowking_surveyor_cute.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,549.7,Near square
+13,sparse_01_sahara.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,743.3,Near square
+14,sparse_02_amazon.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,935.2,Near square
+15,sparse_03_arctic.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,971.7,Near square
+16,sparse_04_tibet.jpg,1024,1024,1.00,1.00,,native,JPEG,False,1,,bitmap,True,True,1115.4,Near square

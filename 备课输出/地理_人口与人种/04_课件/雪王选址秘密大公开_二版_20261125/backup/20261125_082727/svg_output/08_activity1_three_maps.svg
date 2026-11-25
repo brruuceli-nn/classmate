@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#15803D"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p08-header" data-pptx-bounds="56 28 1168 100">
+    <rect x="56" y="28" width="236" height="32" rx="16" fill="#E11D48"/>
+    <text x="174" y="50" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">小组活动一 · 三图叠置探究</text>
+    <text x="56" y="102" font-size="36" font-weight="bold" fill="#1E3A8A">打开资料包：三张世界地图叠在一起找规律！</text>
+  </g>
+
+  <g id="p08-task-banner" data-pptx-bounds="56 140 1168 118">
+    <rect x="56" y="140" width="1168" height="118" rx="16" fill="#FFF5F5" stroke="#E11D48" stroke-width="2"/>
+    <use data-icon="tabler-filled/compass" x="84" y="176" width="44" height="44" fill="#E11D48"/>
+    <text x="146" y="186" font-size="24" font-weight="bold" fill="#1E293B">活动指令：请大家拿出资料包，将<tspan fill="#E11D48">《世界人口分布图》</tspan><tspan fill="#15803D">《世界地形图》</tspan><tspan fill="#1E3A8A">《世界气候类型图》</tspan>
+      <tspan x="146" dy="38">放在一起比对，找出<tspan fill="#E11D48">人口稠密</tspan>、<tspan fill="#1E3A8A">人口稀疏</tspan>的地区以及它们的分布规律！</tspan>
+    </text>
+  </g>
+
+  <g id="p08-map-cards" data-pptx-bounds="56 280 1168 174">
+    <rect x="56" y="280" width="368" height="174" rx="16" fill="#FFFFFF" stroke="#FECDD3" stroke-width="2"/>
+    <circle cx="110" cy="332" r="26" fill="#FFF5F5"/>
+    <use data-icon="tabler-filled/user" x="94" y="316" width="32" height="32" fill="#E11D48"/>
+    <text x="150" y="340" font-size="24" font-weight="bold" fill="#E11D48">图 ① 世界人口分布图</text>
+    <text x="84" y="388" font-size="18" fill="#1E293B">看图例颜色深浅：
+      <tspan x="84" dy="28" fill="#64748B">锁定每平方千米 ＞100人 与 ＜1人区域</tspan>
+    </text>
+
+    <rect x="456" y="280" width="368" height="174" rx="16" fill="#FFFFFF" stroke="#86EFAC" stroke-width="2"/>
+    <circle cx="510" cy="332" r="26" fill="#F0FDF4"/>
+    <use data-icon="tabler-filled/mountain" x="494" y="316" width="32" height="32" fill="#15803D"/>
+    <text x="550" y="340" font-size="24" font-weight="bold" fill="#15803D">图 ② 世界地形图</text>
+    <text x="484" y="388" font-size="18" fill="#1E293B">看海拔与地表起伏：
+      <tspan x="484" dy="28" fill="#64748B">对比绿色沿海平原与棕褐色高大山脉高原</tspan>
+    </text>
+
+    <rect x="856" y="280" width="368" height="174" rx="16" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
+    <circle cx="910" cy="332" r="26" fill="#EFF6FF"/>
+    <use data-icon="tabler-filled/sun" x="894" y="316" width="32" height="32" fill="#1E3A8A"/>
+    <text x="950" y="340" font-size="24" font-weight="bold" fill="#1E3A8A">图 ③ 世界气候类型图</text>
+    <text x="884" y="388" font-size="18" fill="#1E293B">看气温与降水组合：
+      <tspan x="884" dy="28" fill="#64748B">对比温和湿润区与极端干/湿热/严寒区</tspan>
+    </text>
+  </g>
+
+  <g id="p08-steps-row" data-pptx-bounds="56 472 1168 156">
+    <g id="p08-step-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="76 476 360 88" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2">
+      <path d="M 76 476 L 392 476 L 436 520 L 392 564 L 76 564 L 120 520 Z"/>
+    </g>
+    <text x="252" y="528" font-size="22" font-weight="bold" fill="#1E3A8A" text-anchor="middle">第1步：圈出4密与4疏</text>
+
+    <g id="p08-step-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="460 476 360 88" fill="#F0FDF4" stroke="#15803D" stroke-width="2">
+      <path d="M 460 476 L 776 476 L 820 520 L 776 564 L 460 564 L 504 520 Z"/>
+    </g>
+    <text x="636" y="528" font-size="22" font-weight="bold" fill="#15803D" text-anchor="middle">第2步：叠对地形与海陆</text>
+
+    <g id="p08-step-3" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="844 476 360 88" fill="#FFF5F5" stroke="#E11D48" stroke-width="2">
+      <path d="M 844 476 L 1160 476 L 1204 520 L 1160 564 L 844 564 L 888 520 Z"/>
+    </g>
+    <text x="1020" y="528" font-size="22" font-weight="bold" fill="#E11D48" text-anchor="middle">第3步：核查冷热与干湿</text>
+
+    <text x="640" y="608" font-size="18" fill="#64748B" text-anchor="middle">限时 4 分钟 · 4 人小组分工协作，在导学案上记录你们发现的分布规律！</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 ppt07 · 小组活动一：三图叠置探究人口稠密区与稀疏区</text>
+    <text x="1224" y="674" text-anchor="end">P08 / 22</text>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#E11D48"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A"/>
+
+  <g id="p13-header" data-pptx-bounds="48 24 1184 102">
+    <rect x="48" y="24" width="236" height="30" rx="15" fill="#E11D48"/>
+    <text x="166" y="45" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">小组活动二 · 盲盒选址考核</text>
+    <text x="48" y="90" font-size="36" font-weight="bold" fill="#1E3A8A">总部发来 6 个盲盒待选点：是否推荐开店？说明理由！</text>
+    <text x="48" y="118" font-size="17" fill="#64748B">对照中央《世界人口密度图》位置与两侧自然景观，组内快速裁定“推荐 √”或“否决 ×”！</text>
+  </g>
+
+  <g id="p13-left-boxes" data-pptx-bounds="48 138 308 492">
+    <rect x="48" y="138" width="308" height="152" rx="14" fill="#F0FDF4" stroke="#15803D" stroke-width="2"/>
+    <image href="../images/dense_01_east_asia.jpg" x="62" y="168" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="168" y="182" font-size="20" font-weight="bold" fill="#15803D">1号 河内/雅加达</text>
+    <text x="168" y="214" font-size="16" fill="#1E293B">越南 / 印度尼西亚
+      <tspan x="168" dy="26" fill="#64748B">东南亚沿海平原</tspan>
+      <tspan x="168" dy="26" font-weight="bold" fill="#15803D">推荐？ 否决？</tspan>
+    </text>
+
+    <rect x="48" y="308" width="308" height="152" rx="14" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2"/>
+    <image href="../images/dense_03_west_europe.jpg" x="62" y="338" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="168" y="352" font-size="20" font-weight="bold" fill="#1E3A8A">2号 伦敦 / 巴黎</text>
+    <text x="168" y="384" font-size="16" fill="#1E293B">欧洲西部核心城市
+      <tspan x="168" dy="26" fill="#64748B">温带海洋性平原</tspan>
+      <tspan x="168" dy="26" font-weight="bold" fill="#1E3A8A">推荐？ 否决？</tspan>
+    </text>
+
+    <rect x="48" y="478" width="308" height="152" rx="14" fill="#FEF3C7" stroke="#D97706" stroke-width="2"/>
+    <image href="../images/sparse_01_sahara.jpg" x="62" y="508" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="168" y="522" font-size="20" font-weight="bold" fill="#D97706">3号 撒哈拉腹地</text>
+    <text x="168" y="554" font-size="16" fill="#1E293B">非洲北部内陆沙漠
+      <tspan x="168" dy="26" fill="#64748B">漫天黄沙极度缺水</tspan>
+      <tspan x="168" dy="26" font-weight="bold" fill="#E11D48">推荐？ 否决？</tspan>
+    </text>
+  </g>
+
+  <g id="p13-center-map" data-pptx-bounds="372 138 536 492">
+    <rect x="372" y="138" width="536" height="492" rx="18" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="2.5" stroke-dasharray="8,4"/>
+    <text x="640" y="178" font-size="20" font-weight="bold" fill="#1E3A8A" text-anchor="middle">【世界人口密度分布图 · 6大盲盒落点】</text>
+    <text x="640" y="206" font-size="15" fill="#64748B" text-anchor="middle">（置入标准《世界人口分布图》置于底层即可保留上方①—⑥标点）</text>
+
+    <circle cx="546" cy="246" r="18" fill="#E11D48" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="546" y="253" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">6</text>
+    <text x="546" y="282" font-size="14" font-weight="bold" fill="#1E3A8A" text-anchor="middle">格陵兰岛</text>
+
+    <circle cx="596" cy="316" r="18" fill="#15803D" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="596" y="323" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+    <text x="596" y="352" font-size="14" font-weight="bold" fill="#15803D" text-anchor="middle">伦敦/巴黎</text>
+
+    <circle cx="606" cy="396" r="18" fill="#D97706" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="606" y="403" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+    <text x="606" y="432" font-size="14" font-weight="bold" fill="#D97706" text-anchor="middle">撒哈拉</text>
+
+    <circle cx="742" cy="356" r="18" fill="#E11D48" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="742" y="363" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+    <text x="742" y="392" font-size="14" font-weight="bold" fill="#E11D48" text-anchor="middle">青藏高原</text>
+
+    <circle cx="792" cy="438" r="18" fill="#15803D" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="792" y="445" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+    <text x="792" y="474" font-size="14" font-weight="bold" fill="#15803D" text-anchor="middle">河内/雅加达</text>
+
+    <circle cx="486" cy="466" r="18" fill="#E11D48" stroke="#FFFFFF" stroke-width="2.5"/>
+    <text x="486" y="473" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+    <text x="486" y="502" font-size="14" font-weight="bold" fill="#E11D48" text-anchor="middle">亚马孙雨林</text>
+
+    <rect x="404" y="544" width="472" height="62" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="640" y="582" font-size="18" font-weight="bold" fill="#1E3A8A" text-anchor="middle">裁定秘诀：一看人口疏密颜色，二看自然环境是否宜居！</text>
+  </g>
+
+  <g id="p13-right-boxes" data-pptx-bounds="924 138 308 492">
+    <rect x="924" y="138" width="308" height="152" rx="14" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <image href="../images/sparse_02_amazon.jpg" x="938" y="168" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1044" y="182" font-size="20" font-weight="bold" fill="#E11D48">4号 亚马孙深处</text>
+    <text x="1044" y="214" font-size="16" fill="#1E293B">南美赤道雨林腹地
+      <tspan x="1044" dy="26" fill="#64748B">极端湿热丛林密布</tspan>
+      <tspan x="1044" dy="26" font-weight="bold" fill="#E11D48">推荐？ 否决？</tspan>
+    </text>
+
+    <rect x="924" y="308" width="308" height="152" rx="14" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <image href="../images/sparse_04_tibet.jpg" x="938" y="338" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1044" y="352" font-size="20" font-weight="bold" fill="#E11D48">5号 青藏无人区</text>
+    <text x="1044" y="384" font-size="16" fill="#1E293B">世界屋脊高寒核心
+      <tspan x="1044" dy="26" fill="#64748B">海拔极高空气稀薄</tspan>
+      <tspan x="1044" dy="26" font-weight="bold" fill="#E11D48">推荐？ 否决？</tspan>
+    </text>
+
+    <rect x="924" y="478" width="308" height="152" rx="14" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <image href="../images/sparse_03_arctic.jpg" x="938" y="508" width="92" height="92" preserveAspectRatio="xMidYMid meet"/>
+    <text x="1044" y="522" font-size="20" font-weight="bold" fill="#1E3A8A">6号 格陵兰岛</text>
+    <text x="1044" y="554" font-size="16" fill="#1E293B">北极圈内冰雪巨岛
+      <tspan x="1044" dy="26" fill="#64748B">终年酷寒冰盖广布</tspan>
+      <tspan x="1044" dy="26" font-weight="bold" fill="#E11D48">推荐？ 否决？</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="48 646 1184 36" fill="#64748B" font-size="14">
+    <line x1="48" y1="648" x2="1232" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="48" y="674">对应要求 PPT12 · 小组活动二：6 个盲盒待选点位置标注与自然景观配图</text>
+    <text x="1232" y="674" text-anchor="end">P13 / 22</text>
+  </g>
+</svg>

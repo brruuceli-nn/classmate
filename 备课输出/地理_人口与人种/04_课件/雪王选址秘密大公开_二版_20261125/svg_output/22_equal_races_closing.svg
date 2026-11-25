@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="ending">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="16" height="720" fill="#E11D48"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="16" y="0" width="1264" height="8" fill="#15803D"/>
+
+  <g id="p22-header" data-pptx-bounds="56 28 1168 96">
+    <rect x="56" y="28" width="268" height="30" rx="15" fill="#DCFCE7"/>
+    <text x="190" y="49" font-size="16" font-weight="bold" fill="#15803D" text-anchor="middle">环节五 · 全球迎客与价值升华</text>
+    <text x="56" y="96" font-size="36" font-weight="bold" fill="#1E3A8A">跨国迎客必修课：世界各民族、各人种一律平等！</text>
+  </g>
+
+  <g id="p22-saopaulo-photo" data-pptx-bounds="56 138 504 394">
+    <rect x="56" y="138" width="504" height="394" rx="20" fill="#FFF5F5" stroke="#FECDD3" stroke-width="2"/>
+    <rect x="78" y="156" width="460" height="268" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <image href="../images/sao_paulo_diverse_queue.jpg" x="178" y="160" width="260" height="260" preserveAspectRatio="xMidYMid meet"/>
+
+    <text x="78" y="458" font-size="22" font-weight="bold" fill="#1E3A8A">2026 年 4 月 · 巴西圣保罗首店盛况</text>
+    <text x="78" y="496" font-size="18" fill="#1E293B">不同肤色、不同语言的顾客因一杯中国茶饮相聚长队！</text>
+  </g>
+
+  <g id="p22-equality-cards" data-pptx-bounds="584 138 640 394">
+    <rect x="584" y="138" width="640" height="184" rx="18" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2"/>
+    <use data-icon="tabler-filled/sun" x="612" y="164" width="34" height="34" fill="#1E3A8A"/>
+    <text x="658" y="192" font-size="24" font-weight="bold" fill="#1E3A8A">科学认识人种差异</text>
+    <text x="612" y="240" font-size="22" fill="#1E293B">人种的体质差异，只是人类长期<tspan font-weight="bold" fill="#15803D">适应自然环境</tspan>的结果，
+      <tspan x="612" dy="38"><tspan font-weight="bold" fill="#E11D48">绝无高低优劣之分</tspan>！</tspan>
+    </text>
+
+    <rect x="584" y="344" width="640" height="188" rx="18" fill="#F0FDF4" stroke="#15803D" stroke-width="2"/>
+    <use data-icon="tabler-filled/globe" x="612" y="370" width="34" height="34" fill="#15803D"/>
+    <text x="658" y="398" font-size="24" font-weight="bold" fill="#15803D">全球调研员迎客准则</text>
+    <text x="612" y="446" font-size="22" fill="#1E293B">在全球各地做生意，一定要<tspan font-weight="bold" fill="#1E3A8A">尊重当地的习俗与文化</tspan>；
+      <tspan x="612" dy="38" font-weight="bold" fill="#15803D">世界各民族、各人种一律平等、各美其美！</tspan>
+    </text>
+  </g>
+
+  <g id="p22-closing-banner" data-pptx-bounds="56 550 1168 80">
+    <rect x="56" y="550" width="1168" height="80" rx="18" fill="#E11D48"/>
+    <use data-icon="tabler-filled/heart" x="86" y="573" width="34" height="34" fill="#FFFFFF"/>
+    <text x="646" y="600" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">“你爱我，我爱你” —— 商业看热闹，地理看门道！感谢各位优秀调研员！</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 PPT21 · 巴西圣保罗店多元排队、各人种一律平等与雪王口号收官</text>
+    <text x="1224" y="674" text-anchor="end">P22 / 22</text>
+  </g>
+</svg>

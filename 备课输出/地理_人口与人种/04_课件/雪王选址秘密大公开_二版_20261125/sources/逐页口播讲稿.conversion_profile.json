@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "doc_to_md.py",
+  "conversion_type": "docx",
+  "source": {
+    "path": "逐页口播讲稿.docx",
+    "name": "逐页口播讲稿.docx",
+    "suffix": ".docx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 14745
+  },
+  "outputs": {
+    "markdown": "逐页口播讲稿.md",
+    "asset_dir": "",
+    "image_manifest": "",
+    "image_count": 0
+  },
+  "markdown": {
+    "line_count": 98,
+    "char_count": 1932,
+    "heading_count": 0,
+    "table_count": 0,
+    "image_ref_count": 0,
+    "link_count": 0
+  },
+  "warnings": []
+}

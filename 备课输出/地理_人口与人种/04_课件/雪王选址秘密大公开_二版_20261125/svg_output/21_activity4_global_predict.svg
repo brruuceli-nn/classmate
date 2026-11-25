@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#E11D48"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A"/>
+
+  <g id="p21-header" data-pptx-bounds="56 24 1168 102">
+    <rect x="56" y="24" width="236" height="30" rx="15" fill="#E11D48"/>
+    <text x="174" y="45" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">小组活动四 · 终极选址实战</text>
+    <text x="56" y="90" font-size="36" font-weight="bold" fill="#1E3A8A">猜一猜、圈一圈：雪王在全球开店会选址在哪里？</text>
+    <text x="56" y="118" font-size="18" fill="#64748B">请在《世界人口分布图》上圈画预测区域，并请同学上讲台对比，吻合度最高赢取『雪王认可奖』！</text>
+  </g>
+
+  <g id="p21-pop-map" data-pptx-bounds="56 140 564 392">
+    <rect x="56" y="140" width="564" height="392" rx="18" fill="#EFF6FF" stroke="#1E3A8A" stroke-width="2.5"/>
+    <rect x="56" y="140" width="564" height="52" rx="18" fill="#1E3A8A"/>
+    <use data-icon="tabler-filled/globe" x="80" y="152" width="28" height="28" fill="#FFFFFF"/>
+    <text x="118" y="174" font-size="22" font-weight="bold" fill="#FFFFFF">图 A · 世界人口分布图（学生圈画区）</text>
+
+    <rect x="80" y="210" width="516" height="298" rx="12" fill="#FFFFFF" stroke="#1E3A8A" stroke-width="2" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/compass" x="314" y="290" width="48" height="48" fill="#1E3A8A"/>
+    <text x="338" y="370" font-size="20" font-weight="bold" fill="#1E3A8A" text-anchor="middle">【世界人口分布图 · 标准教材原图占位】</text>
+    <text x="338" y="406" font-size="16" fill="#64748B" text-anchor="middle">请用红笔在资料包地图上圈出推荐选址热区
+      <tspan x="338" dy="26">（严守国家版图规范 · map_world_pop_density.png）</tspan>
+    </text>
+  </g>
+
+  <g id="p21-mixue-map" data-pptx-bounds="660 140 564 392">
+    <rect x="660" y="140" width="564" height="392" rx="18" fill="#FFF5F5" stroke="#E11D48" stroke-width="2.5"/>
+    <rect x="660" y="140" width="564" height="52" rx="18" fill="#E11D48"/>
+    <use data-icon="tabler-filled/trophy" x="684" y="152" width="28" height="28" fill="#FFFFFF"/>
+    <text x="722" y="174" font-size="22" font-weight="bold" fill="#FFFFFF">图 B · 雪王全球门店分布图（揭晓对比区）</text>
+
+    <rect x="684" y="210" width="516" height="298" rx="12" fill="#FFFFFF" stroke="#E11D48" stroke-width="2" stroke-dasharray="8,4"/>
+    <use data-icon="tabler-filled/map-pin" x="918" y="276" width="48" height="48" fill="#E11D48"/>
+    <text x="942" y="354" font-size="20" font-weight="bold" fill="#E11D48" text-anchor="middle">【雪王全球门店分布图占位框】</text>
+    <text x="942" y="390" font-size="16" fill="#1E293B" text-anchor="middle">核心密集区：中国及东南亚（印尼/越南/马泰）
+      <tspan x="942" dy="26" fill="#64748B">跨洲新拓点：澳大利亚、美国洛杉矶、巴西圣保罗等沿海大城</tspan>
+    </text>
+  </g>
+
+  <g id="p21-reminder-bar" data-pptx-bounds="56 548 1168 80">
+    <rect x="56" y="548" width="1168" height="80" rx="16" fill="#F0FDF4" stroke="#15803D" stroke-width="2"/>
+    <use data-icon="tabler-filled/bulb" x="84" y="571" width="34" height="34" fill="#15803D"/>
+    <text x="132" y="582" font-size="20" font-weight="bold" fill="#15803D">督导双尺提醒：选址时，既要考虑<tspan fill="#1E3A8A">① 人口稠密程度（地形、气候、海陆位置）</tspan>，
+      <tspan x="132" dy="30">又要考虑<tspan fill="#E11D48">② 人口的自然增长率（正增长年轻客群多，还是负增长？）</tspan>！</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 PPT20 · 活动四：世界人口分布图与雪王分布图预测对比</text>
+    <text x="1224" y="674" text-anchor="end">P21 / 22</text>
+  </g>
+</svg>

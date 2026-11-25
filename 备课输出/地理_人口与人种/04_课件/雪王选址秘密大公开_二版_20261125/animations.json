@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "slides": {
+    "05_calc_billion_table": {
+      "groups": {
+        "p05-table-answers": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "effect_options": { "direction": "down" },
+              "trigger": "on-click",
+              "order": 1,
+              "duration": 0.65
+            }
+          ]
+        }
+      }
+    },
+    "10_dense_landscapes": {
+      "transition": {
+        "effect": "gallery",
+        "effect_options": { "direction": "right" },
+        "duration": 0.8
+      },
+      "groups": {
+        "dense-card-1": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 1,
+              "delay": 0.15,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "dense-card-2": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 2,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "dense-card-3": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 3,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "dense-card-4": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 4,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        }
+      }
+    },
+    "11_sparse_landscapes": {
+      "transition": {
+        "effect": "gallery",
+        "effect_options": { "direction": "right" },
+        "duration": 0.8
+      },
+      "groups": {
+        "sparse-card-1": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 1,
+              "delay": 0.15,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "sparse-card-2": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 2,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "sparse-card-3": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 3,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        },
+        "sparse-card-4": {
+          "effects": [
+            {
+              "effect": "entrance_fly",
+              "effect_options": { "direction": "left" },
+              "trigger": "after-previous",
+              "order": 4,
+              "delay": 0.25,
+              "duration": 0.55,
+              "decelerate": 0.6
+            }
+          ]
+        }
+      }
+    },
+    "17_warmup_calc": {
+      "groups": {
+        "p17-answer-reveal": {
+          "effects": [
+            {
+              "effect": "entrance_fade",
+              "trigger": "on-click",
+              "order": 1,
+              "duration": 0.45
+            }
+          ]
+        }
+      }
+    },
+    "18_activity3_tokyo_jakarta": {
+      "groups": {
+        "p18-verdict-bar": {
+          "effects": [
+            {
+              "effect": "entrance_wipe",
+              "effect_options": { "direction": "right" },
+              "trigger": "on-click",
+              "order": 1,
+              "duration": 0.5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB" />
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#E11D48" />
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#1E3A8A" />
+
+  <g id="p18-header" data-pptx-bounds="56 24 1168 102">
+    <rect x="56" y="24" width="236" height="30" rx="15" fill="#E11D48" />
+    <text x="174" y="45" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">小组活动三 · 总部新考题</text>
+    <text x="56" y="90" font-size="36" font-weight="bold" fill="#1E3A8A">同在人口稠密区：日本东京 vs 印尼雅加达，谁开店更多？</text>
+    <text x="56" y="118" font-size="18" fill="#64748B">请结合下方总部提供的两组真实人口数据，做出判断并说出你的地理理由！</text>
+  </g>
+
+  <g id="p18-jakarta-card" data-pptx-bounds="56 140 564 408">
+    <rect x="56" y="140" width="564" height="408" rx="20" fill="#F0FDF4" stroke="#15803D" stroke-width="2.5" />
+    <rect x="56" y="140" width="564" height="58" rx="20" fill="#15803D" />
+    
+  <g transform="translate(82, 153) scale(1.33333)" fill="#FFFFFF">
+    <path d="M18.364 4.636a9 9 0 0 1 .203 12.519l-.203 .21l-4.243 4.242a3 3 0 0 1 -4.097 .135l-.144 -.135l-4.244 -4.243a9 9 0 0 1 12.728 -12.728zm-6.364 3.364a3 3 0 1 0 0 6a3 3 0 0 0 0 -6" />
+  </g>
+    <text x="124" y="179" font-size="26" font-weight="bold" fill="#FFFFFF">候选城市 A · 印度尼西亚 雅加达</text>
+
+    <rect x="86" y="220" width="504" height="126" rx="14" fill="#FFFFFF" stroke="#86EFAC" stroke-width="1.5" />
+    <text x="338" y="256" font-size="18" fill="#64748B" text-anchor="middle">人口自然增长率参考数据</text>
+    <text x="338" y="320" font-size="54" font-weight="bold" fill="#15803D" text-anchor="middle">+9‰（正增长）</text>
+
+    <text x="86" y="390" font-size="22" font-weight="bold" fill="#15803D">材料线索解读：</text>
+    <text fill="#1E293B" font-size="20" x="86" y="430">• 位于东南亚人口稠密区，总人口基数大
+      </text><text fill="#1E293B" font-size="20" x="86" y="464"><tspan>• 自然增长率 ＞ 0，<tspan font-weight="bold" fill="#E11D48">年轻消费群体占比高</tspan></tspan>
+      </text><text fill="#1E293B" font-size="20" x="86" y="498"><tspan>• 常年炎热，冰饮与果茶市场需求极其旺盛！</tspan>
+    </text></g>
+
+  <g id="p18-tokyo-card" data-pptx-bounds="660 140 564 408">
+    <rect x="660" y="140" width="564" height="408" rx="20" fill="#F8FAFC" stroke="#1E3A8A" stroke-width="2.5" />
+    <rect x="660" y="140" width="564" height="58" rx="20" fill="#1E3A8A" />
+    
+  <g transform="translate(686, 153) scale(1.33333)" fill="#FFFFFF">
+    <path d="M18.364 4.636a9 9 0 0 1 .203 12.519l-.203 .21l-4.243 4.242a3 3 0 0 1 -4.097 .135l-.144 -.135l-4.244 -4.243a9 9 0 0 1 12.728 -12.728zm-6.364 3.364a3 3 0 1 0 0 6a3 3 0 0 0 0 -6" />
+  </g>
+    <text x="728" y="179" font-size="26" font-weight="bold" fill="#FFFFFF">候选城市 B · 日本 东京</text>
+
+    <rect x="690" y="220" width="242" height="126" rx="14" fill="#FFFFFF" stroke="#FECDD3" stroke-width="1.5" />
+    <text x="811" y="256" font-size="16" fill="#64748B" text-anchor="middle">人口自然增长率</text>
+    <text x="811" y="318" font-size="44" font-weight="bold" fill="#E11D48" text-anchor="middle">−7‰</text>
+
+    <rect x="948" y="220" width="246" height="126" rx="14" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="1.5" />
+    <text x="1071" y="256" font-size="16" fill="#64748B" text-anchor="middle">65岁以上老年人口</text>
+    <text x="1071" y="318" font-size="42" font-weight="bold" fill="#1E3A8A" text-anchor="middle">近 30%</text>
+
+    <text x="690" y="390" font-size="22" font-weight="bold" fill="#1E3A8A">材料线索解读：</text>
+    <text fill="#1E293B" font-size="20" x="690" y="430">• 虽处亚洲东部人口稠密区，但呈<tspan font-weight="bold" fill="#E11D48">人口负增长</tspan>
+      </text><text fill="#1E293B" font-size="20" x="690" y="464"><tspan>• 65 岁以上近 30%，<tspan font-weight="bold" fill="#1E3A8A">人口老龄化严重</tspan></tspan>
+      </text><text fill="#1E293B" font-size="20" x="690" y="498"><tspan>• 年轻消费者与年轻店员偏少，奶茶需求较弱</tspan>
+    </text></g>
+
+  <g id="p18-verdict-bar" data-pptx-bounds="56 564 1168 64">
+    <rect x="56" y="564" width="1168" height="64" rx="16" fill="#FFF5F5" stroke="#E11D48" stroke-width="2" />
+    
+  <g transform="translate(84, 580) scale(1.33333)" fill="#E11D48">
+    <path d="M19.496 13.983l1.966 3.406a1.001 1.001 0 0 1 -.705 1.488l-.113 .011l-.112 -.001l-2.933 -.19l-1.303 2.636a1.001 1.001 0 0 1 -1.608 .26l-.082 -.094l-.072 -.11l-1.968 -3.407a8.994 8.994 0 0 0 6.93 -3.999z" />
+    <path d="M11.43 17.982l-1.966 3.408a1.001 1.001 0 0 1 -1.622 .157l-.076 -.1l-.064 -.114l-1.304 -2.635l-2.931 .19a1.001 1.001 0 0 1 -1.022 -1.29l.04 -.107l.05 -.1l1.968 -3.409a8.994 8.994 0 0 0 6.927 4.001z" />
+    <path d="M12 2l.24 .004a7 7 0 0 1 6.76 6.996l-.003 .193l-.007 .192l-.018 .245l-.026 .242l-.024 .178a6.985 6.985 0 0 1 -.317 1.268l-.116 .308l-.153 .348a7.001 7.001 0 0 1 -12.688 -.028l-.13 -.297l-.052 -.133l-.08 -.217l-.095 -.294a6.96 6.96 0 0 1 -.093 -.344l-.06 -.271l-.049 -.271l-.02 -.139l-.039 -.323l-.024 -.365l-.006 -.292a7 7 0 0 1 6.76 -6.996l.24 -.004z" />
+  </g>
+    <text x="128" y="605" font-size="22" font-weight="bold" fill="#1E293B">答案揭晓：<tspan fill="#E11D48">印尼雅加达门店开得更多（超两千家，日本仅数家）</tspan>——年轻群体多，市场需求大！</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5" />
+    <text x="56" y="674">对应要求 PPT17 · 活动三：日本东京 vs 印尼雅加达（+9‰ vs −7% / 65岁以上近30%）</text>
+    <text x="1224" y="674" text-anchor="end">P18 / 22</text>
+  </g>
+</svg>

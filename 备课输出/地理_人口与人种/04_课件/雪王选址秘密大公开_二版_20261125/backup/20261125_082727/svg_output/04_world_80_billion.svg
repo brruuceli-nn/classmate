@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" lang="zh-CN" font-family="Microsoft YaHei, Trebuchet MS" data-pptx-page-role="content">
+  <rect id="bg" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFDFB"/>
+  <rect id="deco-left-bar" data-pptx-role="decoration" x="0" y="0" width="12" height="720" fill="#1E3A8A"/>
+  <rect id="deco-top-band" data-pptx-role="decoration" x="12" y="0" width="1268" height="6" fill="#E11D48"/>
+
+  <g id="p04-header" data-pptx-bounds="56 32 1168 90">
+    <rect x="56" y="32" width="236" height="32" rx="16" fill="#EFF6FF"/>
+    <text x="174" y="54" font-size="16" font-weight="bold" fill="#1E3A8A" text-anchor="middle">环节一 · 世界人口数量变化</text>
+    <text x="56" y="106" font-size="38" font-weight="bold" fill="#1E3A8A">里程碑时刻：地球大家庭有多庞大？</text>
+  </g>
+
+  <g id="p04-hero-80b" data-pptx-bounds="56 142 1168 310">
+    <rect x="56" y="142" width="1168" height="310" rx="24" fill="#1E3A8A"/>
+    <circle cx="204" cy="297" r="96" fill="#FFFFFF" fill-opacity="0.10"/>
+    <use data-icon="tabler-filled/globe" x="148" y="241" width="112" height="112" fill="#FFFFFF"/>
+
+    <rect x="348" y="172" width="520" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.16"/>
+    <text x="608" y="200" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2022 年 11 月 15 日 · 联合国正式宣布</text>
+
+    <text x="348" y="326" font-size="82" font-weight="bold" fill="#FFFDFB">世界人口</text>
+    <text x="716" y="330" font-size="82" font-weight="bold" fill="#E11D48">80 亿</text>
+    <rect x="706" y="346" width="236" height="8" rx="4" fill="#E11D48"/>
+
+    <text x="348" y="406" font-size="24" fill="#E2E8F0">8,000,000,000 位地球居民 —— 全球市场最震撼的人口总盘子！</text>
+  </g>
+
+  <g id="p04-dream-banner" data-pptx-bounds="56 476 1168 150">
+    <rect x="56" y="476" width="1168" height="150" rx="20" fill="#FFF5F5" stroke="#E11D48" stroke-width="2.5"/>
+    <use data-icon="tabler-filled/bulb" x="92" y="504" width="40" height="40" fill="#E11D48"/>
+    <text x="148" y="534" font-size="26" font-weight="bold" fill="#1E293B">作为雪王的全球选址调研员，我们最希望看到的画面是什么？</text>
+
+    <rect x="148" y="556" width="560" height="52" rx="26" fill="#E11D48"/>
+    <use data-icon="tabler-filled/heart" x="174" y="568" width="28" height="28" fill="#FFFFFF"/>
+    <text x="442" y="591" font-size="28" font-weight="bold" fill="#FFFFFF" text-anchor="middle">—— 人人都在喝蜜雪冰城！</text>
+  </g>
+
+  <g id="page-footer" data-pptx-role="footer" data-pptx-bounds="56 646 1168 36" fill="#64748B" font-size="14">
+    <line x1="56" y1="648" x2="1224" y2="648" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="56" y="674">对应要求 ppt 03 · 世界人口 80 亿里程碑与调研员愿景</text>
+    <text x="1224" y="674" text-anchor="end">P04 / 22</text>
+  </g>
+</svg>
